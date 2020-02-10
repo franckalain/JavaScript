@@ -18,3 +18,19 @@ var Color;
 var backgroundColor = Color.Red;
 
 // originaly did tsc main.ts to obtain main.js ans I renamed it to 2.types.js
+/** 
+let a: number;
+let b: boolean;
+let c: string;
+let d: any;
+let e: number[] = [1, 2, 4];
+let f: any[] = [1, true, 'a', false];
+
+const ColorRed = 0;
+const ColorGreen = 1;
+const ColorBlue = 2;
+
+
+enum Color{Red = 0, Green = 1, Blue = 2, Purple = 3};
+let backgroundColor = Color.Red;
+ */
