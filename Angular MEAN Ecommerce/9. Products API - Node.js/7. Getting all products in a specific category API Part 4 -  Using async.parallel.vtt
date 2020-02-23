@@ -1,0 +1,100 @@
+WEBVTT
+
+00:00.650 --> 00:07.820
+Interviews video we came to realize Zeeshan that we don't even need a waterfall at all.
+
+00:07.970 --> 00:12.090
+Each of the function is independent of one another.
+
+00:12.320 --> 00:18.630
+We only use a single waterfall if the next function is dependent on the previous functions variable.
+
+00:18.650 --> 00:24.890
+So instead of using waterfall we are using parallel because we want to run all the mongoose operations
+
+00:25.310 --> 00:26.630
+at the same time.
+
+00:26.630 --> 00:27.590
+So let's change the code
+
+00:31.140 --> 00:36.030
+to change just two parallel and then correct.
+
+00:36.520 --> 00:45.130
+And then we want to remove 2 to 1 to move this because it's independent.
+
+00:45.240 --> 00:55.650
+So we went through this and it was just two and we're going to cut this step.
+
+00:55.660 --> 01:03.400
+We're going to call back and damn we'll do it again.
+
+01:06.670 --> 01:14.150
+Here is the final function do you create all this
+
+01:18.950 --> 01:26.630
+or close to zero.
+
+01:26.630 --> 01:26.900
+Why.
+
+01:26.950 --> 01:37.710
+Because the index is Airey it is considered as zero technically 0 1 2.
+
+01:38.090 --> 01:40.750
+So index 0 in X-1 index too.
+
+01:41.090 --> 01:44.640
+So he has to forward this in zero.
+
+01:44.660 --> 01:48.460
+And we have to put all products equal and the result is zero.
+
+01:49.160 --> 01:55.800
+So I guess for this one it will be more result.
+
+01:56.700 --> 02:01.650
+So the bar product includes the results.
+
+02:01.880 --> 02:10.220
+One last the bar category will be resolved too.
+
+02:11.580 --> 02:13.180
+And then we push this here
+
+02:18.110 --> 02:19.400
+category.
+
+02:19.460 --> 02:21.730
+All right.
+
+02:21.910 --> 02:27.790
+So let's go ahead and test it out again with if we have any problem and it shows a good post-wedding
+
+02:29.530 --> 02:33.850
+and check it here.
+
+02:33.860 --> 02:36.420
+Nothing at the center again.
+
+02:37.040 --> 02:39.720
+And there you have it.
+
+02:39.980 --> 02:47.940
+This is way better than before because right now each function is not dependent on the previous function.
+
+02:47.960 --> 02:54.080
+Now Iran separately and then we'll just you know in the final function it would just give the results
+
+02:54.170 --> 02:58.520
+in 0 1 and 2 index.
+
+02:58.580 --> 03:03.000
+In this video we change from a single waterfall to a scene.
+
+03:03.290 --> 03:08.810
+Parallel it in next video we will learn how to create a single product API.
+
+03:09.080 --> 03:11.000
+So I'll see you guys in the next VDU.

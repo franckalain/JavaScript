@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00.480 --> 00:05.120
+Hello there in a previous video we've just started dependencies there were quite before.
+
+00:05.130 --> 00:11.890
+At this we deal with current instant dependencies so that they can use inside our app.
+
+00:11.900 --> 00:14.550
+Let's start by opening up our more file
+
+00:17.910 --> 00:28.870
+more consists of four parts the declarations imports per writers and bootstrap declarations is used
+
+00:28.870 --> 00:36.280
+to continue the list of components that are in our app importances a list of dependencies that pass
+
+00:37.350 --> 00:42.490
+providers has a list of services they will be using our app and bootstrap.
+
+00:42.480 --> 00:48.150
+It's a list of components that will be bootstrapped when at more Jew is bootstrapped.
+
+00:48.190 --> 00:54.850
+If any of this were some foreigns you stop this reader right now and check or crash course which will
+
+00:54.850 --> 00:56.520
+let you do me for free.
+
+01:56.720 --> 02:05.430
+Here imported the firm's modes you should be playing more Jew and be more Jew and with the current insight
+
+02:05.560 --> 02:14.860
+the imports the GTP and more Jew is needed to make histidine pickups in angular forms module.
+
+02:15.070 --> 02:19.580
+Use for controlling forms and angular and MJB more module.
+
+02:19.840 --> 02:23.470
+It's useful angular bootstrap now.
+
+02:23.640 --> 02:30.030
+Our dependencies are successfully set up in unless we do we will set up our next bar and footer.

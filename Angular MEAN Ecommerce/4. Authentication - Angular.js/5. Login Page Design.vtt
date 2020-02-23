@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00.450 --> 00:02.910
+Hello they're in the last review.
+
+00:03.230 --> 00:10.950
+They've set up the logic for our lot in component in this we will be designing the layout or in pitch.
+
+00:10.950 --> 00:16.700
+Now let's open up our text editor and open in component.
+
+00:16.850 --> 00:17.210
+TMF
+
+00:31.820 --> 00:39.560
+here with next our message inside a container which is position in the center of the screen.
+
+00:39.560 --> 00:42.830
+This container would be only resetter only if we use the screen.
+
+00:42.950 --> 00:44.200
+It's larger than large
+
+00:54.630 --> 00:55.370
+here.
+
+00:55.470 --> 00:57.940
+We've created the cart below the message.
+
+00:58.160 --> 01:00.690
+If the heading teks not inside
+
+01:34.490 --> 01:41.230
+here we've created the lot inform this long form is pretty much similar to the registration form that
+
+01:41.240 --> 01:43.360
+we did a few weeks ago.
+
+01:43.860 --> 01:51.080
+And we do have set up the design lay out for our line pitch in the next video we're setting up the authentication
+
+01:51.080 --> 01:53.010
+grps for angular app.

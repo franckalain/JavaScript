@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00.670 --> 00:07.500
+Hello guys will come back I want you guys to pause to view and try to create your own address.
+
+00:07.510 --> 00:13.140
+I see what it is the same as the one that would create in a big hand.
+
+00:13.180 --> 00:16.480
+It is exactly the same as profil API.
+
+00:19.420 --> 00:20.320
+I'm going to read for a bit.
+
+00:20.320 --> 00:21.940
+Actually I'm waiting for you guys actually.
+
+00:23.830 --> 00:24.700
+I'm still waiting.
+
+00:25.770 --> 00:27.330
+Time's up.
+
+00:27.330 --> 00:29.640
+I'm going to create another API.
+
+00:30.060 --> 00:37.100
+I'm going to copy and paste Profar API and change some of the code to fit the address API.
+
+00:37.230 --> 00:41.180
+So I was going to same capitis inditing if you want to learn.
+
+00:41.180 --> 00:48.920
+You should typing by myself typing up every single line here and change this to dress.
+
+00:49.890 --> 00:58.620
+And this one will be dress hoops and this one will be user dress.
+
+00:58.910 --> 00:59.610
+Awesome.
+
+01:00.000 --> 01:07.700
+And here you want to remove everything except you want to do it.
+
+01:09.880 --> 01:13.860
+Got that crest what it comes to
+
+02:23.780 --> 02:24.890
+it is pretty straightforward.
+
+02:25.030 --> 02:29.440
+Pessin the Gita will teach me to work to check what a token does exist or not.
+
+02:29.660 --> 02:37.160
+So that we can use request encoded user dot on a score ID then we're passing the address of the user
+
+02:37.160 --> 02:43.690
+as part of the Jason body user guide dress instead of just user put the post method.
+
+02:43.780 --> 02:48.980
+We simply check each of the requested body to see whether they are empty or not.
+
+02:49.030 --> 02:56.980
+If it is not empty then set it to the new value which is required by the address one to seek the state
+
+02:56.980 --> 02:59.610
+country or portico.
+
+02:59.610 --> 03:04.630
+Finally we save it and response back the message injection format.
+
+03:04.930 --> 03:08.340
+So that could change these two addresses.
+
+03:09.130 --> 03:10.910
+Let us test it on postman.
+
+03:11.130 --> 03:19.020
+The postman and capitis is here to address.
+
+03:19.090 --> 03:23.160
+So let's check on our show and we got to start the server
+
+03:26.780 --> 03:30.980
+connected to babies are like let's go in and click send.
+
+03:31.460 --> 03:40.830
+No two can provide it again we got to prove why it seem like this a transition or head or and as well
+
+03:41.070 --> 03:52.890
+as copy this entire thing was here and Dan sent it again true address is empty because you know we did
+
+03:52.890 --> 03:58.050
+not submit any data to address object just yet.
+
+03:58.320 --> 04:02.690
+So it was go ahead to close body and address.
+
+04:02.730 --> 04:05.870
+One will be changed to this one.
+
+04:06.100 --> 04:11.140
+This one will be awesome.
+
+04:11.930 --> 04:13.730
+I know I to call with any
+
+04:16.590 --> 04:23.380
+boss to see it.
+
+04:25.560 --> 04:44.470
+Also he wrote state I know the name is proving generic and postal code 9 0 2 1 0 1 and I think is about
+
+04:44.530 --> 04:44.860
+right.
+
+04:44.860 --> 04:46.570
+Let's check again.
+
+04:46.930 --> 04:51.840
+Country Let's go back to my country.
+
+05:00.540 --> 05:05.970
+Just watch our costs and this is amazing TV.
+
+05:05.990 --> 05:07.220
+So here's why.
+
+05:07.320 --> 05:11.720
+So now let's post it successfully added to your address.
+
+05:11.720 --> 05:15.340
+And there's good change used to get and sent one more time.
+
+05:15.600 --> 05:16.880
+And there you have it.
+
+05:17.250 --> 05:25.230
+Amazing in this video we learn how to address API for both post and get in the next section.
+
+05:25.230 --> 05:28.320
+Adam Petersen will handle the front end part.
+
+05:28.350 --> 05:30.430
+I'll see you guys in the next section.

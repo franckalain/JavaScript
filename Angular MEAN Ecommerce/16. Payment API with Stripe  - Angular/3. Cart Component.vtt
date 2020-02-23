@@ -1,0 +1,187 @@
+WEBVTT
+
+00:00.300 --> 00:08.140
+Hey guys in the last video if set up the functionality in this video will be setting up the component.
+
+00:08.550 --> 00:14.120
+Let's start by opening up a power shop window and going to the Amazon directory.
+
+00:14.420 --> 00:26.080
+Type in the rate component cost and then run into service minimize the window.
+
+00:26.530 --> 00:30.730
+Let's open up a text editor open up at Roding Manjoo
+
+00:42.580 --> 00:47.160
+here imported the cut component and declared as a route.
+
+00:47.530 --> 00:49.820
+Now let's open up Kirch component.
+
+01:17.710 --> 01:25.780
+Here if imported and instantiated the data service reps a PR service and Guler router is also created
+
+01:25.810 --> 01:33.400
+by unwearable we use to enable and disable the check Abadan handler we use to store streps checkout
+
+01:33.430 --> 01:38.230
+handler and Canidius you should be used to start a quantities of items
+
+02:00.620 --> 02:02.560
+trip by car items.
+
+02:02.560 --> 02:09.110
+Use the trepanned the list of products then in a cart to get items is used to get the products then
+
+02:09.110 --> 02:23.170
+inside a cart and they get her cup toldo is used to get the total price of products inside a cart.
+
+02:23.260 --> 02:31.450
+The energy that we run every time to pitch it inside it will create the array that we use to store the
+
+02:31.450 --> 02:32.610
+quantities of items
+
+02:45.470 --> 02:52.010
+here in a science truck checkout configure the stuff handler inside it we've configured the struck key
+
+02:52.700 --> 02:54.410
+the image and the local
+
+03:40.110 --> 03:46.670
+hear the word cocaine which is a function there only to be run but the critical information is something
+
+03:46.760 --> 03:52.970
+the strike and Strutt returns the struct and angular the struct token to be used later on on the server
+
+03:53.000 --> 03:56.760
+to crush the user inside the token function.
+
+03:56.840 --> 04:04.210
+You've created a new array named products and each object that contains to put the ID and the quantity.
+
+04:04.250 --> 04:11.270
+Once this is done the list of products along with the total price and a struct token I posted to the
+
+04:11.270 --> 04:16.630
+server once the responses received from the server you'd be assigned to variable data.
+
+04:17.180 --> 04:20.050
+Then we check if success on data is true.
+
+04:20.090 --> 04:25.420
+If this is true the shopping cart would be clear and the success message should be displayed.
+
+04:25.670 --> 04:28.200
+Otherwise the error message should be displayed.
+
+04:28.760 --> 04:32.930
+If an error occurs on the site the error message should be displayed as well.
+
+04:40.980 --> 04:46.460
+Here if Krita remove it you should remove the choosing from the shopping cart
+
+05:29.730 --> 05:30.780
+here.
+
+05:30.870 --> 05:37.800
+Create our validation method in here to check if any of this is less than one.
+
+05:37.830 --> 05:45.150
+If this is true the warning message here will be displayed then to check if the user is locked in.
+
+05:45.270 --> 05:51.160
+If the user is not locked in he or she will direct to the lock in pitch and the warning message will
+
+05:51.200 --> 05:52.580
+be shown.
+
+05:52.680 --> 05:56.330
+Then you check if the user has a shipping address.
+
+05:56.430 --> 06:02.580
+If the user doesn't have a shipping address he or she will regret it to the address page and the warning
+
+06:02.580 --> 06:04.290
+message should be shown.
+
+06:04.290 --> 06:33.230
+If all the tests are passed it met return true.
+
+06:33.420 --> 06:39.520
+Here we have our checkout method when it is clicked it will be run.
+
+06:39.520 --> 06:44.200
+If what edition is successful strip payment interface will be open.
+
+06:44.320 --> 06:49.880
+The amount to be paid is multiplied by 100 as it's required by struct check out line.
+
+06:49.890 --> 06:55.590
+For example if you want to pay $50 US then my variable should be 5000.
+
+06:55.590 --> 06:58.630
+Now let's open up cut of component s.c.s s
+
+07:10.960 --> 07:14.710
+here Sterling is used to Stylo quantity inputs.
+
+07:14.710 --> 07:17.580
+Now let's open up Kirch component.
+
+07:56.650 --> 08:05.010
+Here created a section the contents the fluid container the container contents the message and display
+
+08:05.020 --> 08:06.740
+the text current empty.
+
+08:06.910 --> 08:12.690
+If the current is empty if the car is not empty the labels here be displayed.
+
+09:39.030 --> 09:43.680
+Here you display the list of products that are inside the user's cart
+
+10:04.630 --> 10:05.240
+here.
+
+10:05.440 --> 10:11.430
+You've created a cartoon to the right of details which displays the cut total of the check.
+
+10:11.440 --> 10:15.550
+But the nice we do is set up the car component.
+
+10:16.000 --> 10:17.850
+Now let's take a look at what if
+
+10:20.720 --> 10:31.520
+let's make sure that no one is running and open up our app and this product to our car does as well.
+
+10:32.960 --> 10:39.620
+And this is a go cart ph here we can change for quantity
+
+10:42.530 --> 10:46.090
+and we can delete them as well.
+
+10:46.100 --> 10:47.930
+Now let's go ahead and make payment
+
+10:59.230 --> 11:00.820
+before we click the button.
+
+11:00.830 --> 11:01.640
+Let's open up my
+
+11:10.740 --> 11:12.910
+Here you can see that our current shivs is zero
+
+11:26.110 --> 11:33.450
+and this Portree successful to go back to it refreshed page.
+
+11:34.290 --> 11:38.470
+And here you can see our new earnings.
+
+11:38.470 --> 11:41.520
+So there we have it in the next section.
+
+11:41.620 --> 11:43.380
+It was setting up the oldest API.

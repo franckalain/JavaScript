@@ -1,0 +1,157 @@
+WEBVTT
+
+00:00.680 --> 00:05.690
+Hello guy she will come back in this video which will create a new category API.
+
+00:05.690 --> 00:06.670
+Let's dive in.
+
+00:06.950 --> 00:11.550
+So the first thing you want to do is you want to create a new file under routes and you want to give
+
+00:11.550 --> 00:13.220
+your name mean.
+
+00:13.370 --> 00:14.420
+Yes.
+
+00:14.510 --> 00:19.210
+This file will hold all the category and product we later to you or else.
+
+00:19.250 --> 00:23.090
+So the first thing we need to do is we need to import two libraries.
+
+00:23.090 --> 00:29.750
+One is library that we just install which is express and the other one is the local library which is
+
+00:29.810 --> 00:32.210
+our model category schema.
+
+00:32.300 --> 00:35.240
+So you go and do that conc or
+
+00:54.550 --> 00:58.540
+so we have to change you made a typo category.
+
+00:58.800 --> 00:59.240
+OK.
+
+00:59.380 --> 01:01.240
+Now one is the router.
+
+01:01.630 --> 01:06.020
+You know route and then the name will be categories.
+
+01:06.230 --> 01:11.590
+Then we'll have to training method which will be get and pose.
+
+01:11.650 --> 01:16.210
+So we're going to focus on the post first because we want to add and you get to first.
+
+01:16.430 --> 01:23.940
+So go good and that was response and next here you want a new kitty.
+
+01:24.300 --> 01:27.360
+Do to get.
+
+01:28.900 --> 01:43.120
+And then category name we go through the DOT territory and then get a green dot safe that opens on keys
+
+01:43.280 --> 01:46.170
+and success
+
+01:50.230 --> 01:57.760
+message.
+
+01:58.840 --> 02:04.680
+So now what we want to do is you want to make or model in the router.
+
+02:04.690 --> 02:05.450
+Sorry.
+
+02:05.680 --> 02:14.990
+Save this file and you want it to serve us and you want to copy this thing and paste it here and she's
+
+02:15.040 --> 02:15.730
+used to
+
+02:19.330 --> 02:19.960
+this
+
+02:27.100 --> 02:40.470
+I mean oh I mean it's going to be like this is here and here.
+
+02:42.310 --> 02:43.400
+So we go back to mean no.
+
+02:43.420 --> 02:44.290
+Yes.
+
+02:44.290 --> 02:45.900
+You know what is happening.
+
+02:46.030 --> 02:52.760
+We create a new category object and we store you know the name of it by the requested body got category.
+
+02:52.990 --> 02:59.080
+And then we saved the category and we responds with two objects just an object which is success and
+
+02:59.080 --> 02:59.780
+message.
+
+03:00.040 --> 03:05.160
+And finally we just you know export the router so that we could use it on the server.
+
+03:05.170 --> 03:07.200
+So now let's go ahead and test it out.
+
+03:07.220 --> 03:13.870
+Google Chrome this postman.
+
+03:14.010 --> 03:15.920
+Let's go ahead and test it out.
+
+03:15.990 --> 03:16.950
+Loading loading.
+
+03:16.990 --> 03:17.740
+Right.
+
+03:17.850 --> 03:27.770
+So this opened up a new tab and localhost to the API and it's
+
+03:33.230 --> 03:36.220
+body will have a name.
+
+03:36.860 --> 03:38.280
+And let's give it a shot.
+
+03:38.360 --> 03:42.380
+Let's give it a name folks.
+
+03:42.500 --> 03:48.450
+And now what we need to do first is we need to run the pulse Shelfer so exclusive stuff.
+
+03:49.530 --> 03:52.680
+Could shift right quick shift for a week.
+
+03:53.530 --> 03:56.980
+Open boat show the Amazon
+
+04:00.090 --> 04:09.320
+server and then no server magic happens from port to the tree and connects to the database go back to
+
+04:09.320 --> 04:14.640
+postman and let's go ahead and send true message.
+
+04:14.870 --> 04:19.460
+So we have successfully created a new category API.
+
+04:19.460 --> 04:23.780
+So in this video we learn how to post a new category in the next video.
+
+04:23.870 --> 04:26.090
+We will learn how to get all the categories.
+
+04:26.180 --> 04:28.230
+So I'll see you guys in the next video.

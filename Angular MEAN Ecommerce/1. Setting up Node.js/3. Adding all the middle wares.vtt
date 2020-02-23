@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00.940 --> 00:06.190
+In of video we learn how to install dependencies using NPM.
+
+00:06.190 --> 00:09.690
+Now we will learn how to use the you know code.
+
+00:09.850 --> 00:14.940
+First of all you need to make sure you are in servers folder if you are in.
+
+00:14.950 --> 00:17.800
+Open up your favorite text editor.
+
+00:17.890 --> 00:20.880
+My favorite text editor is Visual Studio.
+
+00:21.280 --> 00:30.910
+So we used to decode and you want to drag the entire project folder which is Amazonas to your text editor.
+
+00:31.060 --> 00:37.690
+Now you want to click here and you want to right click on the server and you want to create a new file
+
+00:38.170 --> 00:40.730
+and you want to give a name server.
+
+00:41.140 --> 00:43.780
+Yes.
+
+00:43.920 --> 00:47.750
+The next thing we need to do is to get all the dependencies that we just install.
+
+00:48.060 --> 00:50.310
+So let's go ahead and cons
+
+01:15.690 --> 01:21.270
+require is a function to get the dependencies in other programming languages like Python or Ruby.
+
+01:21.270 --> 01:32.040
+You easily use import Express for example or express or or.
+
+01:33.200 --> 01:36.000
+In a nutshell require is slight import.
+
+01:36.170 --> 01:43.790
+So in this so I've explained explain to you guys what each of the dependency does express is a web framework
+
+01:43.910 --> 01:49.300
+you can create routes like get Bowse or to be more specific you are l.
+
+01:49.700 --> 01:57.820
+It is a framework to create Hastey to be Rupp's Morgan is he she to be requests logger for.
+
+01:57.930 --> 01:58.370
+No no.
+
+01:58.390 --> 02:06.200
+Yes it is a middleware it simplifies the process of logging requests to your application Nexxus body
+
+02:06.200 --> 02:14.240
+parser but the parser is actually a data reader so technically even an install body parser no jast cannot
+
+02:14.240 --> 02:17.190
+really communicate with the front and data.
+
+02:17.240 --> 02:23.090
+For example if you want to log in and you want to pass in your username and password no jazz has to
+
+02:23.090 --> 02:27.350
+understand what kind of data is that to be able to do something with it.
+
+02:27.440 --> 02:33.070
+Finally is mongoose mongoose a Mongolia region.
+
+02:33.200 --> 02:40.010
+So now you can communicate directly from non-jazz to the Maunganui database within easy to use user
+
+02:40.100 --> 02:41.040
+interface.
+
+02:41.280 --> 02:45.220
+You'll see the power of mongoose later on.
+
+02:45.450 --> 02:52.320
+Now we need to teach our non-jazz on how to use all these dependencies to do so we need to create an
+
+02:52.410 --> 03:01.280
+instance of express dependencies so go ahead and do that cons Express once created.
+
+03:01.290 --> 03:02.220
+Now we can use that.
+
+03:02.250 --> 03:04.150
+So to use
+
+03:30.110 --> 03:30.530
+this
+
+03:33.410 --> 03:38.950
+first line is simply reading data in a specific format which is adjacent format.
+
+03:38.950 --> 03:46.760
+Second line is your uncoated is we put as false because in future we want to read an image as well.
+
+03:46.760 --> 03:49.180
+It can read all sort of data types.
+
+03:49.380 --> 03:55.100
+Finally is Morgon which will lock out all the requests on the terminal.
+
+03:55.500 --> 04:01.230
+I know right now it is very subjective but as we dive in more you'll understand why do we need all these
+
+04:01.230 --> 04:03.630
+dependencies in this video.
+
+04:03.870 --> 04:04.930
+We will learn.
+
+04:05.010 --> 04:10.490
+I mean sorry in this video we learn how to import the dependencies in the next video.
+
+04:10.860 --> 04:13.420
+We will run our first server.
+
+04:13.470 --> 04:14.630
+I'll see you guys in next few.

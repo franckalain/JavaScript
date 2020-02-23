@@ -1,0 +1,79 @@
+WEBVTT
+
+01:03.310 --> 01:10.690
+So this is the container that contains our links and such bar should expand and collapse according to
+
+01:10.690 --> 01:13.860
+the collapse wearable inside it.
+
+01:13.870 --> 01:20.560
+We are funding the container with the class of input group and a width of seventy five percent.
+
+01:20.670 --> 01:30.310
+Inside the container we have a lot of text input which well-you is bound to do Webo search term below
+
+01:30.310 --> 01:31.850
+that text input.
+
+01:31.930 --> 01:36.080
+It's a span which acts as the search button.
+
+01:36.450 --> 01:42.470
+The user can search either by hitting enter or clicking the spell itself.
+
+01:42.700 --> 01:43.210
+Moving on
+
+02:14.070 --> 02:17.640
+below the search is in the RV.
+
+02:17.850 --> 02:26.800
+It takes up the full weight of containing the if this def contains links that are useful navigation.
+
+02:26.860 --> 02:34.260
+The next item over here will change the route that the U.S. is currently on and also collapse the mobile
+
+02:34.260 --> 02:35.020
+menu.
+
+02:35.200 --> 03:01.820
+But it is quick.
+
+03:02.030 --> 03:08.320
+Now we've created an item in an ordered list it shows a drop down when it is clicked.
+
+03:08.420 --> 03:14.730
+This item will be positioned to run most of the screen when the screen size is larger than medium.
+
+03:14.810 --> 03:22.100
+The list item contains a link which toggles the drop down when clicked the link will show the text accounts
+
+03:22.990 --> 03:24.470
+when no user is signed in
+
+04:41.490 --> 04:46.190
+to dropdown link is the actual dropdown itself.
+
+04:46.510 --> 04:53.100
+Items is drop down the collapse the drop down and collapse the Mohamedi as well.
+
+04:53.570 --> 05:00.630
+The profile and lockout page will only be visible when the user is not locked in at the drop down item
+
+05:01.500 --> 05:09.220
+is a regularly Adam should collapse the mobo menu but it is clicked after the router.
+
+05:09.740 --> 05:11.160
+We create our folder
+
+05:52.070 --> 06:03.110
+Fouda here has an idea of mine for also has a green color of dark blue and has a copyright text centered
+
+06:03.140 --> 06:04.720
+inside.
+
+06:04.830 --> 06:12.030
+In this we do set up the neph bar in the future for angular app and unless we do we set it up and get
+
+06:12.030 --> 06:16.770
+a router that changes the page displayed according to the user is currently on.

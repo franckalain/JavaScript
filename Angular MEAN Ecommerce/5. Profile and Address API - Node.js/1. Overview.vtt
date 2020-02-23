@@ -1,0 +1,37 @@
+WEBVTT
+
+00:00.630 --> 00:03.250
+Hello guys will come back in a previous section.
+
+00:03.300 --> 00:10.930
+Adam Pearson has walked us through on how to build in features using Anglia mail and see.
+
+00:11.250 --> 00:16.290
+In this section we will learn how to create user profile and address API.
+
+00:16.650 --> 00:18.200
+Why do we need these two.
+
+00:18.390 --> 00:20.590
+Because we don't use information.
+
+00:20.790 --> 00:26.520
+It would be almost impossible to know who they are and where they're from and would be hard for sellers
+
+00:26.520 --> 00:28.220
+to ship the product.
+
+00:28.290 --> 00:33.870
+We need to create this crucial API before we proceed for a profile.
+
+00:34.110 --> 00:41.790
+We want to see use information like name and picture address is for the sellers to ship.
+
+00:41.840 --> 00:50.590
+We will learn specifically how to combine get and post under one route name in the next video.
+
+00:50.760 --> 00:54.160
+We will learn how to create our custom middleware.
+
+00:54.430 --> 00:55.900
+I'll see us in next few.

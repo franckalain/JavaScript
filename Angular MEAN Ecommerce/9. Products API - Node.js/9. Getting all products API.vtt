@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00.620 --> 00:04.880
+In this video we will create the main API for products.
+
+00:04.990 --> 00:06.190
+So go and do that.
+
+00:06.580 --> 00:08.810
+So you will behave exactly like categories.
+
+00:08.950 --> 00:19.090
+So I'm just going to copy this capitis and I'm going to go I'm going to do this and I'm going to paste
+
+00:19.090 --> 00:25.480
+it up here and I want to change this to just the products.
+
+00:25.990 --> 00:28.120
+So we're going to get you going to get all.
+
+00:28.140 --> 00:34.450
+I mean any any products writing products I'm going to read this and I'm going to remove this one
+
+00:37.130 --> 00:39.480
+remove category.
+
+00:39.710 --> 00:46.320
+It won't be any category name and I think that's spot on.
+
+00:46.340 --> 00:47.180
+All right.
+
+00:47.220 --> 00:52.210
+Will be no category right.
+
+00:53.060 --> 00:54.800
+You know I think that's about it.
+
+00:54.870 --> 00:56.950
+So go ahead and test this.
+
+00:57.270 --> 01:05.040
+So instead of giving a specific category we want to find you know all the products in the products you
+
+01:05.040 --> 01:09.040
+know documents or we call the collection to be more specific.
+
+01:09.090 --> 01:10.260
+So let's go ahead and do that.
+
+01:10.260 --> 01:15.830
+So it's good to Huisman when you go to those
+
+01:18.230 --> 01:25.890
+products get in and get all the products but only 10 items.
+
+01:25.950 --> 01:30.110
+So if you go scroll down to products 23.
+
+01:30.530 --> 01:32.280
+Awesome.
+
+01:32.340 --> 01:40.050
+So in the next section at comparison walking guys true on the angler and I'll see you guys in the next
+
+01:40.380 --> 01:41.620
+section.
+
+01:41.640 --> 01:44.060
+Stay hungry stay foolish.
+
+01:44.190 --> 01:44.490
+By.

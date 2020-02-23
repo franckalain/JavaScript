@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00.640 --> 00:07.660
+Hello they're in unless we deal with completely the logic needed for our registration page.
+
+00:07.690 --> 00:11.600
+In this we will be focusing on the design layout.
+
+00:11.620 --> 00:19.850
+Let's start by opening up our text editor and then opening up registration the component Ashia M.
+
+00:35.670 --> 00:43.750
+here the position our message inside a container and its position in the center of the screen.
+
+00:43.760 --> 00:48.570
+The container we only be Center only if they use a screen is larger than large
+
+01:02.190 --> 01:02.770
+here.
+
+01:02.970 --> 01:09.060
+They've created a cart load message with the hitting text registration
+
+02:15.690 --> 02:16.420
+here.
+
+02:16.500 --> 02:19.840
+We've created a form from inputs.
+
+02:19.920 --> 02:26.200
+I divide it into form groups and issue of them have their very own labels.
+
+02:26.210 --> 02:32.100
+The data of this inputs are bound to both state and humano.
+
+02:32.580 --> 02:41.270
+For example the name input here is bound to the name variable in setting the registration component.
+
+02:41.280 --> 02:45.640
+This will set up a design layout of a registration page.
+
+02:45.880 --> 02:48.780
+The next video will set up our lot in page.

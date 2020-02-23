@@ -1,0 +1,121 @@
+WEBVTT
+
+00:00.510 --> 00:06.700
+Hello they're in the last week you have set up the profile component in this video.
+
+00:06.790 --> 00:09.170
+It will set up the settings computer.
+
+00:09.240 --> 00:17.530
+Let's start by opening up my power show window and set and you know directory and then type again and
+
+00:17.550 --> 00:24.310
+you generate Polen settings.
+
+00:24.510 --> 00:30.160
+Now type in you sir minimize the window.
+
+00:30.160 --> 00:35.040
+Now let's open up our text editor and open at Roding Mungiu
+
+00:51.980 --> 00:53.020
+here.
+
+00:53.160 --> 00:57.730
+The settings component and declare it as a route.
+
+00:57.980 --> 01:01.430
+Now let's open up setting's component.
+
+01:23.610 --> 01:32.300
+Here important our data service and risk a service and declare them in the constructor.
+
+01:32.560 --> 01:39.240
+It's also created a button is a variable and a current setting's variable the current settings where
+
+01:39.250 --> 01:41.770
+will we bout the data from.
+
+01:41.770 --> 01:42.570
+TMF form
+
+02:06.800 --> 02:08.160
+to ngi on it.
+
+02:08.740 --> 02:15.200
+We run a return to purchase it in the site it will check if the user profile is loaded.
+
+02:15.560 --> 02:22.640
+If it's not the app waiting for the user profile to finish loading wants to use this Profar is loaded.
+
+02:22.970 --> 02:29.540
+The user's profile along with the word most new password and password confirm will be assigned to the
+
+02:29.540 --> 02:30.190
+workbook.
+
+02:30.260 --> 02:35.330
+Current settings if an error occurs error message will be displayed.
+
+03:23.650 --> 03:31.360
+Here you've created the wildish method which is pretty much identical to what I've done now lock in
+
+03:31.420 --> 03:32.650
+and registration components
+
+04:21.130 --> 04:21.840
+here.
+
+04:22.060 --> 04:29.650
+We've created up that function when this function is run up that button will be disabled from the rock
+
+04:29.700 --> 04:33.440
+would then be validated if Web edition is successful.
+
+04:33.580 --> 04:39.210
+The new settings were posted to the link We're here in the Jason format.
+
+04:39.520 --> 04:46.960
+Once the responses successfully receive you'll be assigned to the variable data and then you check if
+
+04:46.960 --> 04:49.130
+success on data is true.
+
+04:49.570 --> 04:55.680
+If success is true you get the users profile and the success message will be displayed.
+
+04:56.200 --> 04:59.410
+Otherwise the error message should be displayed.
+
+05:00.010 --> 05:04.540
+If an error occurs to error message should be displayed as well.
+
+05:04.540 --> 05:08.430
+Once this is done by then enable it again.
+
+05:08.440 --> 05:11.910
+Now let's open up our set computer component punished him.
+
+05:34.710 --> 05:35.440
+Here.
+
+05:35.550 --> 05:43.860
+We've created the settings section which contains the hitting text my account settings message as well
+
+05:43.860 --> 05:44.830
+as the loading spinner
+
+06:55.450 --> 06:56.730
+loader loading spinner.
+
+06:57.030 --> 07:01.570
+We've created the update settings for him which should only be displayed when he uses current settings
+
+07:01.660 --> 07:04.440
+have been loaded in this media.
+
+07:04.660 --> 07:08.390
+We have set up the profile Center's page in the next video.
+
+07:08.540 --> 07:10.350
+We will set up a profile address page.

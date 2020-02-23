@@ -1,0 +1,139 @@
+WEBVTT
+
+00:00.630 --> 00:07.590
+You guys in the last video explain how pagination works in this video we're going to create a category
+
+00:07.590 --> 00:11.000
+component and implement pagination inside it.
+
+00:11.010 --> 00:18.900
+Let's start by it or how shall we know in our angular Amazonas directory and then type in and regenerate
+
+00:19.760 --> 00:25.030
+component category then we're anti-circ
+
+00:40.950 --> 00:41.490
+here.
+
+00:41.660 --> 00:49.620
+If you imported the category component and declare it as a rock and set the path ID will become the
+
+00:49.620 --> 00:56.250
+route parameters to what parameters can be retrieved using the angular actuator package.
+
+00:56.250 --> 00:57.870
+Let's take a look at an example.
+
+01:00.070 --> 01:06.890
+Run of categories slenderly 6 will result in the parameter ID 36.
+
+01:06.890 --> 01:09.230
+Now let's open up category component
+
+01:38.070 --> 01:46.320
+inside the category component of important to the router from router press a service it a Cirus and
+
+01:46.330 --> 01:49.300
+instant she didn't install a constructor.
+
+01:49.310 --> 01:56.980
+We've also created the category ID where both you use the starter category ID from the router.
+
+01:57.400 --> 02:04.620
+Category where both should be used to start category information and the pitch wearable which you'll
+
+02:04.630 --> 02:07.890
+be use to start a page that the user is currently on
+
+02:18.030 --> 02:24.800
+and only Niedermair will be run every time the page is visited inside it to check if the parameters
+
+02:24.800 --> 02:32.190
+have change if there are permanent change the category IAB will be updated and get products recalled
+
+02:44.920 --> 02:50.590
+for a category component to be using a pagination setting of 10 address per page.
+
+02:50.590 --> 02:58.760
+The local Geter gets the lower limits of the results and forgetter gets our upper limits of the results.
+
+03:31.160 --> 03:35.780
+We're here you have to get method inside it.
+
+03:35.780 --> 03:43.060
+We've declared the option of parameter event event passing the function as an argument.
+
+03:43.190 --> 03:47.260
+The category information will be clear and set the link.
+
+03:47.270 --> 03:54.020
+We have the category ID rule as well as the pitch where table says pagers on the server site begin with
+
+03:54.020 --> 03:56.750
+zero and the pages are at.
+
+03:57.040 --> 04:02.220
+If one Kapish number requested from the server should be the current pished number on.
+
+04:02.220 --> 04:10.190
+At minus 1 for example when we see the pitch one is on our app the pitch is there in the API should
+
+04:10.190 --> 04:11.540
+be zero.
+
+04:11.540 --> 04:14.990
+Now let's open up category component here.
+
+04:33.850 --> 04:42.390
+Here you've created a category section which contains a container that contains the message and the
+
+04:42.400 --> 04:43.170
+loading spinner
+
+04:55.480 --> 04:56.940
+will hear.
+
+04:57.090 --> 05:01.110
+Quit hating texting displayed no paradox in that category.
+
+05:01.170 --> 05:03.740
+The category has been loaded and there are no products.
+
+05:03.740 --> 05:04.640
+Is that a category.
+
+06:25.300 --> 06:31.160
+Here we've created a different it will only show when the category information is loaded and there's
+
+06:31.160 --> 06:34.570
+producta instead of category inside it.
+
+06:34.800 --> 06:42.820
+We have the category name limit upper limit and a total paradox and set a category.
+
+06:43.580 --> 06:47.210
+We also have the details of the products in that category.
+
+06:47.210 --> 06:49.450
+We also have angular bootstrap pagination.
+
+06:49.450 --> 06:55.460
+Over here the collection size is set to category for the products.
+
+06:55.490 --> 07:00.190
+The pitch size is set to 10 Khurram pitches mounted to pitch.
+
+07:00.710 --> 07:05.630
+When the pitch change is Angle angular bootstrap you get the paradox again.
+
+07:06.080 --> 07:09.460
+This video of the category component.
+
+07:09.470 --> 07:16.190
+Now let's take a look at what is beaute let's make sure that no one is running in it.
+
+07:16.190 --> 07:27.230
+Open up our app Let's go to the categories page let's go to cats here and see the products that are
+
+07:27.230 --> 07:33.360
+inside cats in the nets we do we will set our product component.

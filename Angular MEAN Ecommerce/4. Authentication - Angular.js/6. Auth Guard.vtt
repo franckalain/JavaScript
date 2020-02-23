@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00.670 --> 00:07.140
+You guys in the class we deal with completely the design lay out of our lot in pitch in this video.
+
+00:07.530 --> 00:10.720
+We'll be creating the authentication service.
+
+00:10.720 --> 00:24.800
+Let's open up our power shall we know stop the app and type in and generate the service of God.
+
+00:27.490 --> 00:33.580
+Once this is done type in research and let's minimize Arendal.
+
+00:33.760 --> 00:35.030
+Now that's open.
+
+00:35.040 --> 00:35.860
+Are you
+
+00:50.890 --> 00:51.510
+here.
+
+00:51.590 --> 00:56.340
+It's important our service and declare it as a provider.
+
+00:56.850 --> 00:59.390
+Now that's open letter of service
+
+01:30.640 --> 01:31.380
+here.
+
+01:31.610 --> 01:39.370
+Imported can activate activate it route snapshot rowdiest snapshot and router from the Engeland router
+
+01:39.370 --> 01:44.290
+package here we have declared dead of service.
+
+01:44.650 --> 01:52.730
+Humans can do it which means that the Cirus will have the can activate method inside a constructor of
+
+01:52.780 --> 01:58.610
+instantiated and get the router to connect you it or hear checks.
+
+01:58.610 --> 02:05.660
+If the use is currently locked in if the user is locked in the angular router redirect the user to the
+
+02:05.660 --> 02:06.950
+homepage.
+
+02:07.280 --> 02:15.040
+Otherwise to of got access to the route specified now that our service has been set up this time of
+
+02:15.050 --> 02:17.070
+use is better at routing would you.
+
+02:17.390 --> 02:18.370
+So let's open it up
+
+02:31.740 --> 02:41.800
+here if imported a got service and declare it inside it can do it probably inside it to route nodded
+
+02:41.810 --> 02:46.990
+off groceries series has been set up with the router the router redirect the user to the homescreen
+
+02:47.530 --> 02:55.000
+when the user ex-sister in their destruction page while he or she is locked in in this video set up
+
+02:55.020 --> 03:02.200
+a service which can let us get access to certain routes and then next week you will see a demonstration
+
+03:02.560 --> 03:04.260
+of what we have learned in this section.

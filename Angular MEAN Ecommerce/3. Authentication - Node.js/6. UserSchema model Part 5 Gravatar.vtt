@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00.680 --> 00:06.580
+A picture is worth a thousand words without pictures it will be a boring website.
+
+00:06.590 --> 00:07.540
+Right.
+
+00:07.580 --> 00:13.460
+And this video we will learn how to add an image every time a users sign up.
+
+00:13.610 --> 00:16.240
+Let us continue where we left off.
+
+00:16.730 --> 01:10.850
+So right below here you are.
+
+01:11.610 --> 01:13.930
+To court court.
+
+01:14.370 --> 01:18.760
+So it has a built in no gas line.
+
+01:19.170 --> 01:20.010
+So we didn't install
+
+02:10.100 --> 02:17.180
+So technically there is a Web site API called Gravatar that will generate a generic picture and it is
+
+02:17.210 --> 02:18.620
+free to use.
+
+02:18.680 --> 02:23.110
+We are simply using the API to generate that image.
+
+02:23.150 --> 02:29.660
+So technically what is happening right now is we created another custom function or custom method and
+
+02:29.660 --> 02:32.140
+we get to name Gravatar.
+
+02:32.330 --> 02:33.880
+The logic is quite simple.
+
+02:34.040 --> 02:44.030
+If the size does not exist then we set the size to 200 and then if the email does not exist if the of
+
+02:44.030 --> 02:48.540
+the uses that exist then you want to return a default.
+
+02:48.560 --> 02:56.090
+You know he should keep the route which telling that Gravatar provides if the email does exist so if
+
+02:56.100 --> 03:00.340
+I want to make it less confusing so we want to do it for us.
+
+03:01.840 --> 03:08.310
+Good news here.
+
+03:08.770 --> 03:10.850
+Dan you want to hold this
+
+03:13.660 --> 03:15.060
+last confused
+
+03:21.770 --> 03:22.960
+else.
+
+03:23.170 --> 03:31.180
+If the e-mail does exist then you want to hash the password within the five encryption then you want
+
+03:31.180 --> 03:36.600
+to return the graveling together with the five encryption.
+
+03:36.700 --> 03:42.830
+So we have to call this function later on to really save the image to the database.
+
+03:42.860 --> 03:49.260
+I will show you guys how to do this Liron in this video we learn how to create another function that
+
+03:49.260 --> 03:54.750
+will generate an image by Gravatar Web site API in the next video.
+
+03:54.840 --> 04:03.500
+We will revise the entire schema and as well as exporting the entire schema out of file could use it.
+
+04:03.600 --> 04:05.430
+I'll see you guys in the next video.

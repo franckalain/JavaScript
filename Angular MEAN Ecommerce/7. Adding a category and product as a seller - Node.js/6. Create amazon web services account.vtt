@@ -1,0 +1,142 @@
+WEBVTT
+
+00:00.570 --> 00:02.060
+Hello guys will come back.
+
+00:02.070 --> 00:05.000
+Amazon Web Services is an amazing service.
+
+00:05.190 --> 00:12.200
+It has many things that we could use like hosting a server using machine learning API and so on.
+
+00:12.330 --> 00:17.780
+In order for us to store the image we need an Amazon Web Services account.
+
+00:18.120 --> 00:20.200
+We're going to store it on our street.
+
+00:20.250 --> 00:22.120
+So let's go ahead and do just that.
+
+00:22.160 --> 00:32.350
+Go to Amazon Web Services website Amazon services and you want to click the second link and you want
+
+00:32.350 --> 00:36.040
+to sign up first for me already sign up so I'm going to sign in.
+
+00:36.340 --> 00:43.710
+So one sign then you want to click as tree and you want to create a new bucket and you want to give
+
+00:43.710 --> 00:49.200
+it a name zone on a web application.
+
+00:49.200 --> 00:50.910
+That's next.
+
+00:50.910 --> 00:59.020
+Next next the next thing you want to do is you want to go to services and you want to go down and under
+
+00:59.020 --> 01:01.110
+secret identity and compliance.
+
+01:01.290 --> 01:08.380
+You want to right click here hop on the link and cutup and you want to click users and you want to add
+
+01:08.720 --> 01:09.790
+your user.
+
+01:09.790 --> 01:19.340
+So I'm going to give it a name or ushe or programatic ex-US it will pass custom password
+
+01:22.710 --> 01:35.060
+and next permission and then I'm just going to click this as tree.
+
+01:35.130 --> 01:37.010
+I mean this one.
+
+01:37.010 --> 01:40.700
+And then next review create user
+
+01:43.540 --> 01:44.480
+and that's about it.
+
+01:44.480 --> 01:49.370
+So you want to copy this and this or you can actually download to see if you file.
+
+01:49.460 --> 01:57.690
+You can download the credentials or you can actually copy this and you can actually pieces somewhere.
+
+01:57.770 --> 02:02.470
+So you do want to close the step just because you need access DNC access.
+
+02:02.780 --> 02:03.860
+So live it.
+
+02:04.070 --> 02:09.710
+So good to see management console type and you want to go to Amazon Amazon web petition.
+
+02:09.710 --> 02:12.660
+So currently it is not public.
+
+02:12.710 --> 02:16.550
+We want to change it to public just like Amazon or version 1.
+
+02:16.580 --> 02:22.490
+So in order for us to do that you know this and you want to go to permission bucket policy and you're
+
+02:22.490 --> 02:23.970
+going to do something here.
+
+02:23.990 --> 02:30.890
+So in order for us to generate market policy you want to go to a new tab and type in bucket all those
+
+02:31.090 --> 02:36.020
+we generate to and then you went to the first slaying.
+
+02:36.590 --> 02:38.440
+So make sure you're on the speech.
+
+02:38.450 --> 02:45.570
+So just to eschew bucket policy principle with asterisks and then all action.
+
+02:45.770 --> 02:51.540
+And if you and you've got to go back to you manage your console and you want to copy this entire thing.
+
+02:52.090 --> 02:58.800
+Copy it here paste it and you want to add this asterisk.
+
+02:58.810 --> 02:59.160
+Right.
+
+02:59.180 --> 03:07.690
+Remember it's the same like this as stateman generate policy and copy this entire thing and you want
+
+03:07.690 --> 03:09.840
+to go back to S-G management console.
+
+03:10.080 --> 03:10.900
+Even a PC here
+
+03:14.010 --> 03:15.350
+Whoops.
+
+03:15.450 --> 03:16.140
+Correct right.
+
+03:16.180 --> 03:17.810
+Yes it is.
+
+03:17.920 --> 03:19.290
+See it.
+
+03:19.470 --> 03:22.470
+And this bucket has public access.
+
+03:22.470 --> 03:29.210
+So awesome in this video we learn how to create S3 bucket and make it public in the next video.
+
+03:29.250 --> 03:33.850
+We will install all the necessary dependencies to upload an image d'esprit.
+
+03:33.900 --> 03:36.240
+I'll see you guys in the next video.

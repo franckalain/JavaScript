@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00.640 --> 00:05.070
+Noted the profound interest piaffe been done it's time to implement them.
+
+00:05.100 --> 00:11.550
+It is sad or angry application in this video to learn how to fetch information for each user.
+
+00:11.710 --> 00:50.100
+Let's start by opening up or text editor and opening up their service.
+
+00:50.220 --> 00:58.970
+Here is create a get profile method which will fetch the profile information for user in such here.
+
+00:59.280 --> 01:04.620
+We will check if the users are locked in and as a token start on the browser.
+
+01:04.840 --> 01:13.840
+If the token is stolen browser the app will get the user's profile using the link or here then the users
+
+01:14.970 --> 01:17.270
+will be safe to use a variable.
+
+01:17.350 --> 01:22.930
+There are serious if an error occurs error will be displayed.
+
+01:23.360 --> 01:25.780
+Now let's open our app component
+
+01:33.610 --> 01:38.870
+inside the constructor code to get Prometa which will get to use this profile.
+
+01:39.070 --> 01:46.810
+When the user first uses our app also in the lock on meant that we will clear a user object every time
+
+01:46.810 --> 01:48.610
+the user locks out from our app.
+
+01:49.060 --> 01:51.750
+Now let's open up our registration component
+
+01:57.080 --> 01:57.890
+here.
+
+01:57.920 --> 02:02.190
+We will code to get profile Methot when the user is successfully registered.
+
+02:03.160 --> 02:05.810
+Now let's open up in.
+
+02:11.830 --> 02:14.650
+Here we will also code a get Prometa.
+
+02:14.830 --> 02:17.610
+When a user has been successfully locked in.
+
+02:17.720 --> 02:20.410
+Now let's open up a component DML
+
+02:31.320 --> 02:38.190
+will load the account spend a nurse spend has an edit which will display the user name this ban will
+
+02:38.190 --> 02:41.880
+only be visible when the user is locked in.
+
+02:41.990 --> 02:48.030
+In this we deal have set up to get Prometa which fetches the profile information for users.
+
+02:48.090 --> 02:51.020
+Next we deal with creating the Profar component.

@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00.590 --> 00:06.700
+Hello guys will come back in the previous video we learn about why do we need users.
+
+00:06.700 --> 00:14.730
+Kiama in this video we will create a user schema and we will add all the important attributes.
+
+00:14.760 --> 00:19.750
+The first thing you need to do is you want to create a new folder and give it a name model so right
+
+00:19.750 --> 00:29.850
+clicking here and going to be modules this folder will hold all the models like user review and many
+
+00:29.850 --> 00:30.900
+more.
+
+00:30.990 --> 00:37.130
+Now you want to run it on a folder and you want to create a new file and you want you to use it or not.
+
+00:37.360 --> 00:38.240
+Yes.
+
+00:39.720 --> 00:43.800
+You need to import mongoose dependence and so on
+
+00:46.540 --> 00:47.030
+our
+
+00:58.500 --> 01:04.030
+schema is just an object so that you can create a user blueprint.
+
+01:04.290 --> 01:07.750
+So let us dice and into creating user schema.
+
+01:08.100 --> 01:08.780
+So it was good and
+
+02:44.380 --> 02:49.010
+these are the attributes that we need to have for each of our customer.
+
+02:49.090 --> 02:52.520
+First is email the e-mail of the user.
+
+02:52.540 --> 02:58.140
+It has to be unique and lowercase so it cannot be duplicated in the future.
+
+02:58.150 --> 03:03.720
+And the data type is a string Nexxus name name is Joe's.
+
+03:03.730 --> 03:12.790
+You know so that user can have a name and type is string Nexxus password same thing string picture string
+
+03:13.450 --> 03:14.370
+is.
+
+03:14.740 --> 03:20.800
+So when you want to sign up you have a choice to be Sellar or not the data type is a boolean true or
+
+03:20.800 --> 03:21.980
+force.
+
+03:22.120 --> 03:29.350
+And we put by default false because you know we one third that every user who signed up is not a seller
+
+03:29.710 --> 03:36.220
+because you have a choice to be a seller and then we have address Brister for address one address to
+
+03:36.400 --> 03:39.810
+all strings city state country postal code.
+
+03:39.810 --> 03:47.980
+Last thing is created data type is date because whenever a new user is created it will store the time
+
+03:48.070 --> 03:50.160
+when the users sign up.
+
+03:50.170 --> 03:56.610
+In this video we learn how to create our first schema which is user schema in the next video.
+
+03:56.650 --> 04:00.270
+We will learn how to encrypt a user password.
+
+04:00.350 --> 04:02.270
+I'll see you guys in the next video.

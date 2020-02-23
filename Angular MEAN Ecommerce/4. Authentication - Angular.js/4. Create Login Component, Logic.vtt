@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00.360 --> 00:08.130
+High there in the last video if set up the design of a registration page in this radio you'll create
+
+00:08.360 --> 00:11.790
+in pitch and set the logic required.
+
+00:11.790 --> 00:13.920
+Now let's open up our show
+
+00:18.420 --> 00:23.960
+and type in and generate Koppelman Lufkin
+
+00:39.680 --> 00:41.120
+once this is done.
+
+00:41.490 --> 00:43.130
+And Sir.
+
+00:44.440 --> 00:47.170
+And then you minimize the window.
+
+00:47.170 --> 00:52.950
+Now let's open up text and editor and open at routeing would you.
+
+01:05.120 --> 01:10.510
+Here is important in component and declare it as a route.
+
+01:10.700 --> 01:13.400
+Now let's open up lock in component
+
+01:38.790 --> 01:47.880
+here imported the router data service and rest service and instantiate them inside the constructor.
+
+01:48.450 --> 01:56.160
+We've also declared the verbose email password will be useful a lot from later in the workbook but I'm
+
+01:56.160 --> 01:57.060
+disabled.
+
+01:57.360 --> 02:00.290
+We should be used for a in button later on
+
+02:14.380 --> 02:15.220
+here.
+
+02:15.320 --> 02:22.180
+Our validation method is created when you met the incident which is pretty much identical to that in
+
+02:22.280 --> 02:23.350
+the registration page
+
+03:02.520 --> 03:09.940
+now our locking method has been created when a function is run in but it will be disabled.
+
+03:10.830 --> 03:18.970
+And then when it did or from data if what edition is successful email and password will be attached
+
+03:18.980 --> 03:28.350
+as a request body and post it to the link or here and then we wait for a response from unserer and it
+
+03:28.350 --> 03:35.500
+will be assigned to the variable data then we would check if success on data is true.
+
+03:36.390 --> 03:44.880
+If success is true the user will be locked in and he'll be redirected to the home page otherwise the
+
+03:44.880 --> 03:47.980
+error message from the Suroor be displayed.
+
+03:48.570 --> 03:52.710
+If an error occurs the error message should be disabled.
+
+03:52.710 --> 03:56.320
+Once this is finished the button we enable again.
+
+03:56.340 --> 03:59.700
+Now let's open up our press a service
+
+04:23.700 --> 04:24.390
+here.
+
+04:24.560 --> 04:31.650
+Create the get hitter's method which returns a hash Dupee hitter really useful authorization to get
+
+04:31.650 --> 04:39.150
+hater's might be included as a hater in both the get and host method inside of the rest service.
+
+04:39.150 --> 04:46.380
+Now let's go back to our looking component and are going to change here three thousand two part tree
+
+04:46.430 --> 04:47.330
+oak tree.
+
+04:47.840 --> 04:50.230
+It's safe and there we have it.
+
+04:50.600 --> 04:56.660
+And this we have set of the logic required for looking at computers in the next video we're set up to
+
+04:56.680 --> 04:58.580
+I lay out for our component.

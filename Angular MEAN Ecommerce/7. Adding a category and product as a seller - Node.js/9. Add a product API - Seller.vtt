@@ -1,0 +1,220 @@
+WEBVTT
+
+00:00.550 --> 00:08.850
+Hello Guys this is a time where we will add the upload function to our API is going to be middleware.
+
+00:09.220 --> 00:21.100
+Again we will use the router route function and when a given name products so rather rough products
+
+00:21.960 --> 00:25.130
+again it have get.
+
+00:25.500 --> 00:29.920
+And since we are porting we need to post it for us.
+
+00:29.950 --> 00:38.650
+So the first thing we need to do is we want to check the first cons check with water
+
+00:42.660 --> 00:43.580
+works
+
+00:46.480 --> 00:51.050
+awesome and then we want to put it here.
+
+00:52.690 --> 00:58.530
+It should be read because they are to me the words that we are going to check
+
+02:38.840 --> 02:40.730
+to do have multiple middleware.
+
+02:40.760 --> 02:43.310
+We need to do an area first.
+
+02:43.310 --> 02:51.020
+We'll be checking the token and then if the token is valid then only the user can upload no matter what.
+
+02:51.130 --> 02:58.000
+This middleware has to run for us the next me the where is to upload the image to stream.
+
+02:58.370 --> 03:04.940
+We give it a name product picture single meaning we are only uploading one picture then the rest is
+
+03:04.940 --> 03:05.950
+pretty straightforward.
+
+03:06.230 --> 03:15.050
+We create a new product you know and then with an object and passing the owner category title price
+
+03:15.050 --> 03:20.880
+description and finally image image has to be requested file Daut location.
+
+03:21.680 --> 03:25.510
+It is the name of the file laying from my street.
+
+03:25.520 --> 03:30.960
+So whenever you upload you upload it on the street then it will return a link to you.
+
+03:31.130 --> 03:38.350
+And then finally we save that and then response in Jason Bay Tom Foreman which is access true and message
+
+03:38.350 --> 03:41.120
+to stressfully added the product.
+
+03:41.180 --> 03:47.890
+So let's test it out and see whether we manage to upload to street and save the data to the database.
+
+03:48.090 --> 03:50.080
+So go and do it before we do that.
+
+03:50.120 --> 03:52.540
+We need to actually change this.
+
+03:52.610 --> 04:00.150
+So if you go to Google Google Google Walter street.
+
+04:00.910 --> 04:09.030
+The first one if take a look at the documentation is actually SEE C-v know it not to shrink.
+
+04:09.090 --> 04:16.140
+So we copied this and let it go back to our visual studio and I'm going to remove this and I'm going
+
+04:16.140 --> 04:17.520
+to save it.
+
+04:17.540 --> 04:18.440
+All right.
+
+04:18.550 --> 04:25.060
+So right now let's head to our hotel and start our server.
+
+04:28.340 --> 04:29.240
+Magic happens.
+
+04:29.360 --> 04:35.240
+Awesome to be connected to the database and open up our postman and the first thing we want to do is
+
+04:35.240 --> 04:37.620
+you want to log in for us.
+
+04:37.620 --> 04:45.890
+So the guy is walking right because we need it talking.
+
+04:45.980 --> 05:04.750
+So posts body I show up at gmail see the password then all the ABC want to treat posts.
+
+05:04.950 --> 05:10.850
+So we want to copy this and try to get it open you tap.
+
+05:10.960 --> 05:21.250
+We'll call those to read and then we want to do the API can be nice send.
+
+05:21.320 --> 05:21.950
+All right.
+
+05:22.040 --> 05:34.930
+Open tap both the theory and then subtler products and then chasid posts header.
+
+05:34.990 --> 05:40.420
+Terry Zeeshan is of value here.
+
+05:40.420 --> 05:46.840
+You want to change to body instead of extendible form your code if you want to click form data instead.
+
+05:47.290 --> 05:49.380
+Because we have to upload an image.
+
+05:49.390 --> 06:01.880
+For example we can change keys to a file so no title or low end value
+
+06:05.010 --> 06:06.090
+writes
+
+06:09.330 --> 06:09.900
+pedigree
+
+06:12.440 --> 06:14.740
+is you've got to tell the truth.
+
+06:14.840 --> 06:20.460
+Take a look at this category ID title price description and that's it.
+
+06:20.570 --> 06:23.030
+And as well as the product picture.
+
+06:23.290 --> 06:28.920
+So let's go back to here and carry ID will be this one Optik books.
+
+06:28.940 --> 06:29.690
+Copy it.
+
+06:29.690 --> 06:30.960
+Go back here.
+
+06:31.090 --> 06:32.040
+See here.
+
+06:32.210 --> 06:42.080
+And last but not least is part of the score picture change is to file because it has to be the same
+
+06:42.140 --> 06:43.350
+as the name here.
+
+06:43.430 --> 06:45.320
+So it has to be product and school picture.
+
+06:45.480 --> 06:46.600
+So go back here.
+
+06:46.940 --> 06:48.850
+Whoops wrong one.
+
+06:48.890 --> 06:56.990
+So let's go back to Boseman and tu's files and I'm going to choose the logo search instead.
+
+06:57.080 --> 06:57.700
+So no worries.
+
+06:57.710 --> 07:04.770
+Go ahead and send this loading successfully added to product.
+
+07:04.840 --> 07:06.350
+Q So is Goudeau browser.
+
+07:06.370 --> 07:10.450
+Let's go to stream and even console refresh this page
+
+07:13.530 --> 07:16.490
+and let's go ahead and click this and check.
+
+07:16.490 --> 07:16.930
+All right.
+
+07:16.950 --> 07:24.680
+There's a sheer and is doing so was quick doing and be downloaded.
+
+07:28.990 --> 07:30.910
+We open it up but it's OK.
+
+07:31.560 --> 07:37.970
+So we actually store the MH So go to and lab and check what it is.
+
+07:38.040 --> 07:44.270
+I mean the products saving on fresh products one
+
+07:48.110 --> 07:48.800
+day.
+
+07:49.100 --> 07:57.270
+They have it final price description Oeming inch tree.
+
+07:57.810 --> 07:58.500
+Awesome.
+
+07:58.800 --> 08:04.220
+In this video we learn how to upload pictures yesterday and saved the link that we got from street to
+
+08:04.250 --> 08:09.810
+the database in the next video we will show you guys how to do this sell this product.
+
+08:09.810 --> 08:11.270
+I'll see you guys in the next video.

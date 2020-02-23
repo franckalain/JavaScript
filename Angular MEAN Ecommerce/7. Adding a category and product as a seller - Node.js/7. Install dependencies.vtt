@@ -1,0 +1,118 @@
+WEBVTT
+
+00:00.600 --> 00:05.520
+Hello guys will come back in this video we will install all the important dependencies and import them
+
+00:05.850 --> 00:09.360
+in a new raw file which will call SALIR.
+
+00:09.480 --> 00:10.350
+Yes.
+
+00:10.380 --> 00:11.860
+So just go ahead and do it.
+
+00:11.970 --> 00:15.320
+First of all we need to install a couple of dependencies first.
+
+00:15.540 --> 00:23.450
+So go to your terminal and you want to stop this server and 22:00 install it.
+
+00:23.490 --> 00:24.130
+Yes.
+
+00:24.240 --> 00:25.050
+OK.
+
+00:25.410 --> 00:29.460
+Monitor monitor us tree and dash dash
+
+00:39.810 --> 00:41.120
+so now it is at.
+
+00:41.120 --> 00:42.430
+It has finished install.
+
+00:42.730 --> 00:50.020
+So we go back to Visual Studio and we want to cut this and let's go two routes and create a new file
+
+00:50.480 --> 00:54.640
+and Graeme Celadon Yes they want a PC here right.
+
+00:56.470 --> 00:58.750
+Now we want to import all the events.
+
+00:58.790 --> 01:02.670
+So months or we're
+
+01:09.740 --> 01:14.870
+importing the product because we wind up with a properly run.
+
+01:14.990 --> 01:20.460
+So models product that we want to upload.
+
+01:20.510 --> 01:27.550
+I mean sorry we want to import all the important dependencies like icons has wire.
+
+01:28.630 --> 01:31.440
+Yes that's the key.
+
+01:31.790 --> 01:38.560
+And then the next thing is icons monitor Walter
+
+01:47.030 --> 01:50.120
+does the war
+
+01:55.470 --> 02:15.330
+on us treat us as free access evil will be sworn in this year.
+
+02:16.310 --> 02:31.460
+And when will the Secret Service be.
+
+02:31.970 --> 02:40.110
+Now we can actually do more to so we us as the case is a library for communicating with our services.
+
+02:40.110 --> 02:49.140
+In our case it is as tree and that the Nexus mulcher is a library to upload images and then multi-entry
+
+02:49.550 --> 02:52.530
+is a library to upload directly to our street.
+
+02:52.740 --> 02:59.630
+And finally in order for us to communicate with our story bucket we need to put the access key ID and
+
+02:59.850 --> 03:02.470
+as well as the secret key.
+
+03:02.500 --> 03:05.900
+Finally we want to export this file format
+
+03:09.960 --> 03:11.890
+and then you want to go to server.
+
+03:11.950 --> 03:13.020
+Yes.
+
+03:13.210 --> 03:23.330
+Again you want to or some other daddy yes.
+
+03:23.820 --> 03:25.430
+Copy this.
+
+03:28.550 --> 03:30.540
+And you want to change it.
+
+03:30.810 --> 03:37.400
+I shall enter this dog cool.
+
+03:37.440 --> 03:43.350
+It is a video we have set up configuration so that we could use the library to upload our product picture
+
+03:43.890 --> 03:45.180
+in the next video.
+
+03:45.290 --> 03:47.490
+We will create an upload function.
+
+03:47.490 --> 03:49.750
+So I'll see you guys in the next video.

@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00.670 --> 00:03.380
+We forgot to add something really important.
+
+00:03.430 --> 00:04.720
+It is a middleware.
+
+00:04.960 --> 00:13.630
+So this middleware will help the front end to communicate with the server side because server side and
+
+00:13.630 --> 00:19.840
+the front end are two separate things or two separate or for example the server side have port 3000
+
+00:20.350 --> 00:24.710
+while the front end has maybe or 4200.
+
+00:24.730 --> 00:30.550
+So in order for the front end to communicate smoothly to the front to the back and we need to add a
+
+00:30.560 --> 00:38.020
+middle word called Course course stands for cross origin resource sharing.
+
+00:38.130 --> 00:46.530
+It is something that is declared by the WTC on communication between different domains by coarse communications
+
+00:46.530 --> 00:53.430
+between the same domain will be allowed the users and the communication that Ross originated will be
+
+00:53.430 --> 01:02.130
+restricted to a few techniques we can see these when we are talking to API mostly the rest API will
+
+01:02.550 --> 01:04.480
+may give us an area.
+
+01:04.580 --> 01:10.380
+This is because the server and client sites are on different domains and the communication between them
+
+01:10.950 --> 01:13.400
+are restricted by horse rules.
+
+01:13.740 --> 01:20.320
+So in order for us to make front and the back can communicate smoothly we need to add this additional
+
+01:20.460 --> 01:21.100
+middleware.
+
+01:21.390 --> 01:22.380
+So go ahead and do that.
+
+01:22.380 --> 01:34.690
+So it was good to show and be in store for that.
+
+01:34.860 --> 01:36.380
+So now we have finish installed.
+
+01:36.390 --> 01:41.370
+Go back to the server Yes and elicited quite a fall here because.
+
+01:41.400 --> 01:45.970
+Conte's so close to a couple more
+
+01:50.140 --> 01:52.550
+Im going to use
+
+01:57.960 --> 01:59.110
+and thats about it.
+
+01:59.130 --> 02:04.740
+Once we added this then we now are going to receive any area from the front end whenever you try to
+
+02:04.740 --> 02:12.090
+make an API call to the server you will never have like an area like you know Course request problem
+
+02:12.090 --> 02:12.870
+and so on.
+
+02:13.200 --> 02:20.700
+So hopefully you guys enjoyed this you do and you know I'll see you guys in the next couple of sections
+
+02:21.090 --> 02:21.420
+by.

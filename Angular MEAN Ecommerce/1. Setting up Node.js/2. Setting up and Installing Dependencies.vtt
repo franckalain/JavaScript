@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00.760 --> 00:08.200
+Hello guys will come back in order for us to build a food application with many features we need to
+
+00:08.200 --> 00:12.970
+teach and know jazz on how to learn a specific skill.
+
+00:13.030 --> 00:20.470
+For example if we want to teach and know G-S on how to create a new R L No we need to start express
+
+00:20.740 --> 00:24.810
+framework if we want to teach and non-jazz on how to read.
+
+00:24.880 --> 00:27.690
+Jason data that we need to teach.
+
+00:27.730 --> 00:31.780
+No just body parts are the most skills we teach.
+
+00:31.790 --> 00:32.750
+No yes.
+
+00:32.920 --> 00:35.670
+The more intelligent it becomes.
+
+00:36.100 --> 00:41.920
+In this video we will install all the dependencies that no just need right now.
+
+00:42.700 --> 00:44.140
+So what are you waiting for.
+
+00:45.730 --> 00:51.200
+The shell and installed all the important dependencies so glitches.
+
+00:51.260 --> 00:55.500
+And right click and click Open power shall we do here.
+
+00:56.600 --> 01:03.500
+So the first thing we want to do is we want to create a folder but before that we need to store one
+
+01:03.500 --> 01:06.750
+specific library and we need to solve.
+
+01:07.020 --> 01:12.760
+Norton Norton is a utility that will monitor for any changes in your code.
+
+01:12.850 --> 01:17.900
+The install note when we run NPM install Norton dash G.
+
+01:18.070 --> 01:22.250
+So we install bash
+
+01:25.420 --> 01:31.360
+dash stands for Global so that every no jazz project can use it.
+
+01:36.980 --> 01:37.720
+Done.
+
+01:37.800 --> 01:39.370
+So you want to clear everything.
+
+01:39.420 --> 01:41.910
+So we already install anointment.
+
+01:42.000 --> 01:46.020
+Next thing we want to do is we want to create a new folder and give it a name.
+
+01:46.020 --> 01:47.580
+Amazonas.
+
+01:48.210 --> 01:50.610
+This will be our project folder.
+
+01:50.730 --> 01:59.050
+You can create it on desktop or whichever directory you are comfortable with CD into this folder see
+
+01:59.560 --> 02:06.110
+Amazon know and create a folder and give it a name server.
+
+02:06.240 --> 02:15.160
+So make directory server for no guesswork work specifically in service folder so CD into the server
+
+02:16.030 --> 02:19.650
+and we won't install all the core dependencies for no G-S.
+
+02:19.720 --> 02:22.220
+Before that we need to type in NPM.
+
+02:22.870 --> 02:24.870
+We want to initialize the package.
+
+02:24.870 --> 02:25.580
+Jay Sean.
+
+02:25.580 --> 02:30.690
+So I mean ridging one.
+
+02:32.620 --> 02:36.460
+I don't know that now is the answer.
+
+02:36.990 --> 02:38.260
+Yes
+
+02:42.600 --> 02:44.810
+yes everything's stalled.
+
+02:45.030 --> 02:49.350
+So now we want to install all the port and dependencies which will reinstall
+
+02:51.850 --> 03:02.740
+somebody parser and see instead of using dash G.
+
+03:02.780 --> 03:09.870
+We want to use dash dash save to save all the dependencies only for a specific project which is Surve
+
+03:09.870 --> 03:10.780
+folder.
+
+03:11.190 --> 03:15.900
+So we have installed every important dependency for the time being.
+
+03:15.900 --> 03:23.040
+So in this video we learn how to create folders install all the important events in the next review.
+
+03:23.240 --> 03:28.610
+Will we will learn how to use the dependencies and what each dependency does specifically.

@@ -1,0 +1,118 @@
+WEBVTT
+
+00:00.300 --> 00:03.410
+In know that's really all set up the payment system.
+
+00:03.760 --> 00:10.500
+A lot of it's required dependencies initially deal with some of the functionality start to open there
+
+00:10.500 --> 00:14.340
+are text and it'll open up their service
+
+00:25.420 --> 00:26.100
+here.
+
+00:26.200 --> 00:28.520
+We've created a wearable items.
+
+00:28.650 --> 00:32.670
+We used to store a number of items that are currently in a shopping cart
+
+00:44.350 --> 00:45.070
+here.
+
+00:45.230 --> 00:51.180
+We've created a get cut that should return the shopping cart if the shopping cart exists.
+
+00:51.340 --> 00:54.390
+Otherwise you would just return an empty array.
+
+01:15.930 --> 01:22.680
+Here you create the function which allows us to add a per hour of our choosing to the shopping cart
+
+01:23.900 --> 01:27.460
+if the program isn't already in a shopping cart you'll be added.
+
+01:27.720 --> 01:31.090
+And the items wearable will be increased by one.
+
+01:31.140 --> 01:34.160
+Otherwise there wouldn't be added to the shopping cart.
+
+01:41.460 --> 01:48.470
+Here is clearly the clear cut function which resets the number of items to zero and clears the shipping
+
+01:48.490 --> 01:48.870
+costs
+
+02:13.760 --> 02:14.620
+here.
+
+02:14.760 --> 02:20.500
+We've created a remove from function which allows us to remove a product from a shopping cart.
+
+02:21.020 --> 02:29.180
+If a product is found the present will be removed and the items very low will be decreased by one.
+
+02:29.180 --> 02:31.250
+Now let's open up component
+
+02:42.640 --> 02:48.870
+here instead the constructor we have set items because of the length of the shopping cart.
+
+02:48.900 --> 02:55.690
+In setting there are service in setting the lock up meant that we also reset the items were built in
+
+02:55.730 --> 02:58.270
+there service to 0.
+
+02:58.270 --> 03:01.390
+Now that's open a component issue.
+
+03:13.090 --> 03:20.220
+In here we've added the TX as well as the batch that were displayed a number of items in the shopping
+
+03:20.220 --> 03:20.920
+cart.
+
+03:21.300 --> 03:23.790
+Now let's open up the component
+
+03:40.240 --> 03:45.350
+here is created to function it will display a success message.
+
+03:45.370 --> 03:50.290
+If you successfully edit the current and an error message if the product has already been added to the
+
+03:50.290 --> 03:50.900
+card.
+
+03:51.220 --> 03:53.530
+Now let's open up that component.
+
+03:53.540 --> 03:54.180
+Actually a mail
+
+04:07.070 --> 04:12.420
+here we've added a button at the current through the shopping cart.
+
+04:12.590 --> 04:15.550
+In this redo we've set up the functionality.
+
+04:15.980 --> 04:20.020
+Now let's take a look at our app.
+
+04:21.170 --> 04:25.630
+Let's go to the product page and click at the car.
+
+04:25.970 --> 04:29.130
+And here you can see the numbers increase by 1.
+
+04:29.150 --> 04:31.440
+We try to look at the cut again.
+
+04:31.730 --> 04:34.530
+Action will fail in the next redo.
+
+04:34.580 --> 04:36.220
+It will set up the car component.

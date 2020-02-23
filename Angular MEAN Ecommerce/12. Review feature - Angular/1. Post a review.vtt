@@ -1,0 +1,94 @@
+WEBVTT
+
+00:00.410 --> 00:06.310
+Know that the review is done it's time to implement it in sort of angular app in this video would be
+
+00:06.320 --> 00:10.620
+creating the post reform along with the logic required for it.
+
+00:11.040 --> 00:17.070
+Let's start by opening up a text editor and open up core component
+
+00:26.620 --> 00:27.700
+here.
+
+00:27.790 --> 00:35.590
+Create a new object which contains the features needed for user obdurately review also added a button
+
+00:35.590 --> 01:14.790
+is able wearable which should be used to enable and disable the Post review about.
+
+01:14.850 --> 01:19.950
+So this is our post review function but it is executed post.
+
+01:20.040 --> 01:21.740
+But that would be disabled.
+
+01:21.930 --> 01:24.940
+Then there was this review posted to the link.
+
+01:24.960 --> 01:31.980
+Or Here was the response received from the server you'd be assigned to very real data.
+
+01:31.980 --> 01:35.430
+Then we check if success on there is true.
+
+01:35.430 --> 01:42.530
+If success is true the success message should be displayed otherwise the error message we speak.
+
+01:42.660 --> 01:47.390
+If an error occurs on a client's site the error message should be displayed as well.
+
+01:47.780 --> 01:51.750
+Once this is finish the post rule but then you'll be enabled again.
+
+01:51.750 --> 01:54.060
+Now let's open up styles.
+
+01:54.100 --> 01:55.020
+S s s
+
+02:12.770 --> 02:19.570
+to class star food and haaf are required for the Ryding bar styling.
+
+02:19.620 --> 02:20.700
+Moving on.
+
+02:20.700 --> 02:23.040
+Let's open up production Pulman issue here.
+
+02:57.760 --> 02:58.830
+On here.
+
+02:58.920 --> 03:02.390
+If you create an entry template should be used for rating bar
+
+03:15.460 --> 04:08.830
+here added rating bar which would display the put up rating from the pro-the rich rating rable.
+
+04:09.020 --> 04:13.320
+Here is create a diff it will show the re-use for the proto
+
+05:02.750 --> 05:09.220
+we're here we've created our post form which includes a clickable reading bar.
+
+05:09.260 --> 05:17.440
+Now let's copy our energy template and then open up category.
+
+05:17.640 --> 05:18.150
+Timo
+
+05:22.470 --> 05:27.370
+here at the reading and the template at the end of the history of nail file.
+
+05:40.890 --> 05:44.120
+In this review is set up a post rule for.
+
+05:44.230 --> 06:03.710
+Now let's take a look at our app let's click on this product and review.
+
+06:04.560 --> 06:08.490
+Here is say successfully edited review view refreshed a page
+
+06:11.560 --> 06:18.960
+we can now see a review in set here in the next section was setting up a search API on the server side.

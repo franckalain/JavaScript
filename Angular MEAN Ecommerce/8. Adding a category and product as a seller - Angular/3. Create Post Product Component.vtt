@@ -1,0 +1,121 @@
+WEBVTT
+
+00:00.390 --> 00:07.140
+HI GUYS THE we do you've set up a new category functionality in this video would be creating the poster
+
+00:07.410 --> 00:08.240
+component.
+
+00:08.460 --> 00:14.430
+Let's start by opening up about how shall we know in center and get an Amazon directory and then type
+
+00:14.430 --> 00:17.210
+in and regenerate.
+
+00:17.970 --> 00:26.920
+When most of this is done and the search I mean the most.
+
+00:27.480 --> 00:33.460
+Now let's open up my text editor and go to app routing will you.
+
+00:50.360 --> 00:55.050
+Here is important to post a component and declare it as a route.
+
+00:55.340 --> 00:57.640
+Now let's open up was put a component
+
+01:30.100 --> 01:38.250
+here in part of the router rest a service and there's service at East and she did them inside the constructor.
+
+01:38.260 --> 01:45.060
+There were about fraud that is used to store information on the product the user wishes to post the
+
+01:45.060 --> 01:49.380
+verbal characteris is used to contain a list of categories inside.
+
+01:49.930 --> 02:15.820
+And they were able to say most is used to enable and disable the post button.
+
+02:16.120 --> 02:21.500
+The energy on it could run every time the pictures visited inside it.
+
+02:21.500 --> 02:23.300
+Look at the list of categories available
+
+02:56.730 --> 02:57.510
+here.
+
+02:57.610 --> 03:03.490
+We have already decided that this is pretty much similar to the way that your methods use that are locked
+
+03:03.490 --> 03:11.710
+in a restriction component.
+
+03:11.960 --> 03:18.410
+The phone change method is used to retrieve the image from the image input in the post-war form.
+
+04:15.470 --> 04:23.630
+And the post function is run the post the button will be disabled then as well that the data is at the
+
+04:23.640 --> 04:27.120
+For if when it actually is successful.
+
+04:27.150 --> 04:35.370
+I knew from that that would be create everything on a firm added to it then from that time we posted
+
+04:35.370 --> 04:43.110
+the link here and the responses received from the server would be assigned to label data.
+
+04:43.110 --> 04:46.250
+Then we would check if success on data is true.
+
+04:46.260 --> 04:50.160
+If success is true you display a success message.
+
+04:50.160 --> 04:56.090
+Otherwise you display an error message if an error occurs the display error message as well.
+
+04:56.610 --> 04:59.870
+Once this is finish you enable the pattern again.
+
+04:59.880 --> 05:03.210
+Now let's open up postproduction DML
+
+05:23.620 --> 05:30.870
+here this create a post-production section which contains a container which contains the heading text
+
+05:31.230 --> 05:36.870
+is a product for sale at message and the Lotus spinner
+
+07:10.310 --> 07:10.820
+here.
+
+07:10.980 --> 07:13.270
+We've created a post-production form.
+
+07:13.380 --> 07:17.720
+The poster will be shown the list of categories has been loaded.
+
+07:18.500 --> 07:25.530
+Here we have a drop down which displays the list of categories and the folks there are here.
+
+07:25.780 --> 07:30.720
+It allows us to choose an image for our product in this video.
+
+07:30.910 --> 07:32.870
+They've set up a poster for that component.
+
+07:33.390 --> 07:36.810
+Let's make sure that not one is running and open up our app
+
+07:40.340 --> 07:42.200
+so no one is running over here.
+
+07:42.340 --> 07:50.120
+This minimizes this mess go to our profile page also put up for sale
+
+08:17.120 --> 08:23.510
+and here you can see that our board has been successfully posted unless we deal with a set of the my
+
+08:23.510 --> 08:24.800
+products component.

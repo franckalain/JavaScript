@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00.680 --> 00:07.590
+Hello gosh in this video we will learn how to use this information let us fill the post method which
+
+00:07.590 --> 00:08.450
+is here.
+
+00:08.610 --> 00:12.000
+So we want to do is you want to check your booty again.
+
+00:12.360 --> 00:12.960
+And then
+
+00:16.020 --> 00:17.430
+on the next
+
+00:22.650 --> 00:22.970
+one
+
+00:27.130 --> 00:29.070
+it
+
+01:51.660 --> 01:52.830
+is pretty straightforward.
+
+01:52.880 --> 01:58.910
+We're passing jailable teams to work to check what the token does exist or not so that we can use requests
+
+01:59.350 --> 02:06.390
+data coded that we check all the fields like name email and password to see whether they are empty or
+
+02:06.390 --> 02:06.860
+not.
+
+02:07.140 --> 02:11.070
+If not empty they will want to sell it to the new value.
+
+02:11.070 --> 02:16.270
+Finally we want to save the object and then response.
+
+02:16.300 --> 02:26.010
+Jason Dieter that's it to go ahead and test it good here and change this to posts and then go to body
+
+02:26.640 --> 02:29.980
+and then change here and let's change our names.
+
+02:30.020 --> 02:35.240
+Who are on.
+
+02:35.690 --> 02:43.490
+That's it just shame on me and let's go ahead and post this nugget response
+
+02:47.210 --> 02:48.420
+syntax error.
+
+02:48.440 --> 02:48.870
+OK.
+
+02:48.890 --> 02:49.800
+The real reason why.
+
+02:49.820 --> 02:53.260
+Because I forgot to add a rule here.
+
+02:53.380 --> 02:55.780
+Save this go back to Boseman.
+
+02:56.030 --> 03:03.380
+Check the first of these good send it again and successfully edit to your profile to change to get.
+
+03:03.380 --> 03:12.210
+And let's get it and see what the name change or change change name from Mr. EBC to arsh Ohio.
+
+03:12.260 --> 03:16.750
+So go ahead and change our dead body.
+
+03:19.160 --> 03:25.620
+Rush.
+
+03:26.340 --> 03:27.240
+Posted again.
+
+03:27.600 --> 03:29.890
+Successfully edit your profile.
+
+03:29.900 --> 03:37.550
+She again and said and once one time the email changed from EVC at ABC to come to our usch at G-mail
+
+03:37.580 --> 03:38.850
+dot com.
+
+03:38.880 --> 03:42.180
+Amazing it works in this video.
+
+03:42.180 --> 03:46.120
+We learn how to use this information in the next video.
+
+03:46.120 --> 03:52.170
+We will create another API which will be to get and post the user's address.
+
+03:52.170 --> 03:53.580
+I'll see you guys in the next few.

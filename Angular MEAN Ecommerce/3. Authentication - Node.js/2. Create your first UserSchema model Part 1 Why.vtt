@@ -1,0 +1,49 @@
+WEBVTT
+
+00:01.110 --> 00:08.820
+Every object in this world has attributes humans have name age job and so on.
+
+00:08.970 --> 00:13.630
+In this video we will learn why do we need user schema.
+
+00:14.590 --> 00:16.330
+Let's take a look at a diagram.
+
+00:16.360 --> 00:21.890
+This figure is a human being and he has a name drop and an H.
+
+00:21.970 --> 00:24.860
+So this human name is Batman.
+
+00:24.880 --> 00:29.180
+His age is 35 years old and his job is a superhero.
+
+00:29.470 --> 00:34.850
+So technically every user will have the same attributes just like in the figure.
+
+00:34.990 --> 00:42.210
+We need a Universo use a blueprint so that every user will have the same attributes.
+
+00:42.490 --> 00:44.820
+I want to show you guys another example.
+
+00:46.350 --> 00:54.300
+As you can see every user in Springfield will have the same set of attributes birthdate name address
+
+00:54.630 --> 01:03.630
+sex height weight and so on for example you know another example every user on Facebook has to enter
+
+01:04.050 --> 01:06.540
+his email and password to log in.
+
+01:06.840 --> 01:12.990
+But having the same set of attributes you can select which attributes that the user has to enter to
+
+01:12.990 --> 01:16.880
+log in to the web of a kitchen in the next few.
+
+01:16.890 --> 01:23.250
+We will learn on how to create the user schema and what sort of attributes that each user needs.
+
+01:23.250 --> 01:25.230
+I'll see guys in the next video.

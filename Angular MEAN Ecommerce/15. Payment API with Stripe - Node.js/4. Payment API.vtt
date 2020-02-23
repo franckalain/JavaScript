@@ -1,0 +1,169 @@
+WEBVTT
+
+00:00.750 --> 00:06.630
+Payment is super essential when it comes to e-commerce Web site because without payment it will be almost
+
+00:06.630 --> 00:10.130
+impossible to purchase a product in this video.
+
+00:10.170 --> 00:14.190
+We will learn how to create an API using stripe.
+
+00:14.220 --> 00:15.740
+So go ahead and do that.
+
+00:15.900 --> 00:16.780
+So good I mean.
+
+00:16.880 --> 00:19.140
+Yes.
+
+00:19.230 --> 00:30.630
+And what you want to do is you want to import nodders you are called Polder.
+
+00:31.710 --> 00:33.120
+Right.
+
+00:33.340 --> 00:40.600
+And then you want to go on year and you want to create you know the payment API.
+
+00:40.660 --> 00:42.220
+So the logic is quite simple.
+
+00:42.280 --> 00:44.020
+We want to charge the customers.
+
+00:44.110 --> 00:50.050
+Then after we charge then only we want to create the Order object or order schema.
+
+00:50.410 --> 02:08.690
+So let's go ahead and router those.
+
+02:09.170 --> 02:10.950
+Did you guys enjoy the music.
+
+02:11.140 --> 02:18.940
+If you do then please leave me a five star view and I'll definitely put more awesome music in the future.
+
+02:18.940 --> 02:19.820
+Now I'm just joking.
+
+02:19.830 --> 02:20.790
+It's up to you.
+
+02:21.040 --> 02:23.170
+How many stars do you want to give me.
+
+02:23.500 --> 02:24.640
+So let me explain.
+
+02:24.640 --> 02:26.070
+From top to bottom.
+
+02:26.230 --> 02:32.980
+First is we are doing post requests to the server and that we are sending the GOP talking so that we
+
+02:32.980 --> 02:39.330
+can check what a token is value not and only we can use the request encoded user dot on his right knee
+
+02:40.790 --> 02:48.890
+and then we take the striped token from the front end and then we the charge you know we'd always be
+
+02:49.790 --> 02:51.290
+multiply by 100.
+
+02:51.290 --> 02:56.660
+The reason why because Strype will automatically automatically convert.
+
+02:56.660 --> 03:05.170
+For example if it is two hundred and fifty dollars it will automatically convert to it goes to 2.5.
+
+03:05.450 --> 03:12.100
+So we always have 10 times 100 to get this amount which is 250.
+
+03:12.560 --> 03:20.660
+So that's the reason why we times hundred of the total price of the cart for example and then next thing
+
+03:20.660 --> 03:29.220
+is we create the right customer once that we pass in the Strub token that I need for this type token
+
+03:29.640 --> 03:34.470
+we got from the front end and and we just want to get the ID so that we can verify right.
+
+03:34.530 --> 03:43.450
+This customer actually pre-Chase this and only this customer has the specific And then we charge the
+
+03:43.480 --> 03:45.390
+customer.
+
+03:45.440 --> 03:50.980
+So we want to check if the token is valid or not if it's valid then we want to charge the customer.
+
+03:51.040 --> 03:52.550
+We give giving the amount.
+
+03:52.790 --> 04:00.600
+And in us the and then after that we send the customer into an idea because we want to make you unique.
+
+04:00.650 --> 04:06.960
+So once we charge the customer then we want to create the order actually.
+
+04:06.980 --> 04:15.430
+So we want to bring the Order object so that we can see any transactions that we use it has me so.
+
+04:15.560 --> 04:23.090
+And then after we have technically created the order we want to push all the products all the products
+
+04:23.270 --> 04:26.370
+from the cart to the order schema.
+
+04:26.390 --> 04:33.560
+For example let's see if we have five products that we want to send one by one to brush maybe a computer
+
+04:34.030 --> 04:36.680
+and the quantity will be one or two or three.
+
+04:37.010 --> 04:40.660
+So we want to push the products every.
+
+04:40.840 --> 04:42.230
+So that's about it.
+
+04:42.550 --> 04:49.200
+And then finally we want to save the order and then we want a response you know with a success and message
+
+04:49.220 --> 04:53.200
+successfully meet a and it's as simple as that.
+
+04:53.530 --> 04:54.940
+So it is Bruce.
+
+04:55.210 --> 05:00.640
+First we take the token for a front end and then we take the top prize in times 100.
+
+05:00.790 --> 05:06.280
+So we get an actual amount and save it on stripe and then we create the customer because we wanted to
+
+05:06.280 --> 05:07.620
+make it unique.
+
+05:07.780 --> 05:13.580
+But you get a sense the idea of the token and then we charge the customer.
+
+05:13.880 --> 05:22.610
+And then finally we actually created the Order object so we can see all the products or told price and
+
+05:22.610 --> 05:23.600
+so on and so forth.
+
+05:26.360 --> 05:31.640
+Unfortunately we can't all the test is raw when the front end is presented.
+
+05:32.000 --> 05:41.270
+So in the next video or section at imprisonable actually Bill the cart component so that you can actually
+
+05:41.270 --> 05:44.370
+use this API and test it out.
+
+05:44.370 --> 05:47.240
+I'll see you guys in the next section by.

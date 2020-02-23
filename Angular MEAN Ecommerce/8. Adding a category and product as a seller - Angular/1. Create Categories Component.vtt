@@ -1,0 +1,94 @@
+WEBVTT
+
+00:00.770 --> 00:06.540
+Now that the the categories post-road up in my plus HPF been done it's time to implement them.
+
+00:06.920 --> 00:11.800
+And you are at this media recreating the category's component.
+
+00:12.090 --> 00:24.140
+Let's start by opening up how shall we know is our angular Amazon or directory type and regenerate categories.
+
+00:24.810 --> 00:35.520
+Once this is done and we serve it now open up we studio and open up at routeing would you
+
+00:50.750 --> 00:55.390
+here we've imported the kangaroo's component and declared as a route.
+
+00:55.400 --> 00:58.350
+Now let's open up categories component
+
+01:13.810 --> 01:20.330
+inside the category's component with T-Clip duress API Cirus and there are Cerise and instead she them
+
+01:20.330 --> 01:22.280
+inside a constructor.
+
+01:22.340 --> 01:24.790
+Also created the categories workbook.
+
+01:24.870 --> 01:50.150
+Should be use to start a list of categories which tree from the server.
+
+01:50.170 --> 01:52.930
+So this is our energy on that matter.
+
+01:53.200 --> 02:01.120
+We should be run every time to pitch it inside it get the list of categories from the server using the
+
+02:01.120 --> 02:09.760
+link here the server response is then assigned to the workbook data then check if success on that is
+
+02:09.770 --> 02:10.830
+true.
+
+02:10.850 --> 02:15.440
+If success is true then the categories would be assigned to categories.
+
+02:16.270 --> 02:22.590
+Else entered message from the server would be displayed if an error occurs the error message should
+
+02:22.590 --> 02:24.480
+be displayed as well.
+
+02:24.480 --> 02:25.190
+Moving on.
+
+02:25.370 --> 02:27.920
+Let's open up Kangaroo's component here.
+
+02:38.340 --> 02:46.590
+Here you've created a section that contains a container which contains the message and hitting Tex categories
+
+02:59.400 --> 03:00.000
+here.
+
+03:00.060 --> 03:01.850
+You've created a loading spinner.
+
+03:01.950 --> 03:04.570
+It only shows to categorize hasn't been loaded.
+
+03:26.400 --> 03:32.100
+The loader loading Spinner is a diff only be shown when the list of categories has been loaded instead
+
+03:32.260 --> 03:40.230
+of a diff you create a list of links that showed the name and the links for each category.
+
+03:40.980 --> 03:44.120
+In this we deal with query that the categories component.
+
+03:44.310 --> 03:46.650
+Now let's take a look at what if beaute.
+
+03:46.920 --> 03:50.120
+Let's make sure that no one is running and that open our app
+
+03:55.890 --> 03:59.440
+Let's go to the categories page and there we have it.
+
+03:59.670 --> 04:07.260
+You can see the list of categories that are at it and you'll create a category function along with the
+
+04:07.480 --> 04:08.740
+category user interface.

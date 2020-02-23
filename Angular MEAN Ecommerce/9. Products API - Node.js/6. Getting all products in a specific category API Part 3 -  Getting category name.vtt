@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00.600 --> 00:12.950
+So is one function will finally sing and the products total products has to be disonance products into
+
+00:12.990 --> 00:13.980
+products.
+
+00:14.550 --> 00:22.890
+And finally just in case you want to call and not to sing functionally wrong timing is going to be three
+
+00:23.220 --> 00:26.210
+separate sink functions.
+
+01:33.190 --> 01:37.710
+The object is to get the category name that.
+
+01:38.140 --> 01:45.600
+But why we can get it from the previous to a seeings because the result is an area for example products
+
+01:45.990 --> 01:46.960
+in an area.
+
+01:47.320 --> 01:52.990
+So therefore we want to capture the product category name then we have to do for example
+
+01:56.960 --> 02:04.570
+zero which is something that is not you know good to do because it is super risky because what if there
+
+02:04.570 --> 02:10.580
+is no product under this category then products z index 0 will be no.
+
+02:10.960 --> 02:15.830
+This will run and that equerry just define the category name.
+
+02:15.940 --> 02:24.740
+So it is pretty easy for in here where finding a specific category find one with passing the parents
+
+02:24.790 --> 02:34.340
+and then we just respond with adjacent objects which products category name products and pages.
+
+02:34.540 --> 02:35.910
+Let's go and test it out.
+
+02:35.920 --> 02:38.950
+So let's go to postman.
+
+02:39.160 --> 02:41.040
+So was good too.
+
+02:41.050 --> 02:42.150
+Which one is it.
+
+02:42.190 --> 02:43.470
+This one.
+
+02:43.980 --> 02:48.680
+So go ahead and send there we have it.
+
+02:48.700 --> 03:02.570
+We have 10 products only category names cats to total products to and pages we have tree Awesome again
+
+03:02.720 --> 03:07.010
+seeing waterfall is just a function that depends on the previous function.
+
+03:07.460 --> 03:14.990
+But the funny thing is are these functions dependent on one another in the next video.
+
+03:15.130 --> 03:22.300
+We will run another missing function that run three separate query at the same time.
+
+03:22.340 --> 03:24.140
+I'll see you guys in the next video.

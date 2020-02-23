@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00.580 --> 00:02.870
+Hey guys Zahm Peterson here.
+
+00:02.870 --> 00:08.180
+In a previous video we've talked about and get a router how we can use it to change the content of our
+
+00:08.180 --> 00:08.700
+app.
+
+00:08.810 --> 00:14.080
+According to the route that the users currently own and with also create the home component in this
+
+00:14.120 --> 00:20.600
+we are going to add image charism to our home component before we create our image carousel.
+
+00:20.780 --> 00:23.400
+You must first acquire the images required.
+
+00:23.900 --> 00:27.010
+Let's start by going to Amazon Dot com.
+
+00:30.960 --> 00:35.160
+And then you download the images here.
+
+00:39.870 --> 00:40.900
+D-Mich. one
+
+00:43.990 --> 00:45.390
+image to
+
+00:51.030 --> 00:51.470
+actually
+
+00:55.090 --> 01:01.310
+which for an image file.
+
+01:02.600 --> 01:04.960
+Now this is done ready to set up.
+
+01:05.000 --> 01:18.960
+Or better that's opened up a text editor and open home component T.M. let's create a section here and
+
+01:18.970 --> 01:23.320
+I hope it will create a container
+
+01:34.600 --> 01:38.730
+here we've created the section and inside it we've created a diff.
+
+01:38.860 --> 01:41.870
+It will only be shown when a screen size is larger than medium
+
+01:52.490 --> 02:01.680
+to NGV carrousel text is to charism itself and then Engy template and Bistline is the better image.
+
+02:12.880 --> 02:19.330
+The engine template is copy and paste for more times and each of them will be linked to a different
+
+02:19.330 --> 02:20.800
+better image.
+
+02:20.800 --> 02:28.120
+Now let's take a look at our app so we can see that the banner images are showing up but they are not
+
+02:28.120 --> 02:29.940
+behaving like they should.
+
+02:29.940 --> 02:31.780
+Let's minimize this.
+
+02:31.840 --> 02:35.360
+Now let's open up some component Yes SPSS
+
+02:52.230 --> 02:54.320
+that's minimizer or text editor.
+
+02:54.960 --> 02:56.410
+Open up a browser.
+
+02:57.000 --> 03:03.900
+Now we can see the banner is centered correctly in this we deal with edit an image carries out to our
+
+03:03.900 --> 03:09.330
+home page and the next we do we create a resource that is use for API called.

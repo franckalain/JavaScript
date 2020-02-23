@@ -1,0 +1,295 @@
+WEBVTT
+
+00:00.540 --> 00:08.400
+Hello guys will come back in this video we will learn how to add a good idea to our product schema so
+
+00:08.400 --> 00:15.160
+that it will see in the products in the moment to be database to the cloud part in real time.
+
+00:15.180 --> 00:18.510
+So the first thing we need to do is we need to install a new dependency.
+
+00:18.810 --> 00:23.810
+So what we do is we want to go to our polls show even a cancerous
+
+00:26.580 --> 00:33.820
+and first thing we do is we want to do and we install mongoose the dash dash see
+
+00:39.400 --> 00:41.670
+now we want to importante the Pennsy.
+
+00:41.930 --> 00:48.870
+So let's go to product G-S under Morell's souls go to here.
+
+00:49.110 --> 00:49.780
+We use to do
+
+00:53.200 --> 00:54.570
+lot.
+
+00:54.730 --> 00:59.480
+And the first thing you want to do is the cons one
+
+01:02.520 --> 01:09.170
+goes to boy or girl the.
+
+01:09.360 --> 01:14.670
+Now we want to add the plug in the mongoose plugin to a product schema.
+
+01:14.750 --> 01:19.370
+So go ahead and do it right here on time.
+
+01:27.620 --> 01:33.450
+For me I want to because I don't want to waste your time.
+
+01:33.670 --> 01:36.580
+So you can see this all the attributes that we're going to add.
+
+01:36.790 --> 01:40.690
+What we haven't added the value because some of the values that we need to take from people go to Web
+
+01:40.690 --> 01:41.440
+site.
+
+01:41.620 --> 01:45.850
+So it was good to go to the Web site and I'm going to copy this
+
+01:48.740 --> 01:53.750
+here and download a copy of this piece here.
+
+01:53.980 --> 01:59.060
+And even daks name is you want to go to the diocese and then it has to be the same as this one.
+
+01:59.080 --> 02:04.140
+So I'm just going to copy them just click this copy here.
+
+02:04.330 --> 02:09.480
+The selector is I mean the name or for example they actually use the new one.
+
+02:09.610 --> 02:16.450
+I'll go to to actually select for example like name title you know images and so on.
+
+02:16.450 --> 02:21.420
+So go ahead and top it off.
+
+02:21.930 --> 02:25.010
+You need to
+
+02:33.140 --> 02:34.670
+populate.
+
+02:34.730 --> 02:37.360
+We want to populate That's name.
+
+02:37.390 --> 02:44.500
+Is simple like mongooses want to populate owner and reviews and you want to select and name and reading
+
+02:45.240 --> 02:52.750
+for example right from the information of the populate once populated to the owner and revues.
+
+02:52.780 --> 03:02.050
+We want to select a name from the owner and rating from the next issue and type order.
+
+03:05.780 --> 03:27.420
+Thanks.
+
+03:31.700 --> 03:41.970
+So the average rating we get to actually copy from this copy it is something pieced here but the only
+
+03:41.970 --> 03:45.070
+difference is is you want to change this duff
+
+03:55.560 --> 04:01.770
+and since we have virtual So you want to copy this name and paste into some letters because we want
+
+04:01.770 --> 04:04.790
+average reading to be part of it as well.
+
+04:06.160 --> 04:06.670
+Finally
+
+04:11.980 --> 04:18.440
+subjects are going to go through it one by one again ID it's just an idea of Ogilvy and APHC same thing
+
+04:18.750 --> 04:26.150
+in next name will be the name in this in diciest So it is going to be on the one selector is as I said
+
+04:26.240 --> 04:31.040
+we want to select all the attributes that we want to send to you.
+
+04:31.450 --> 04:38.900
+But I tile EMH reviews description price owner created in every tree from the rituals and every one
+
+04:38.930 --> 04:40.900
+property owner and reviews.
+
+04:40.940 --> 04:46.760
+And we want to select name from owner rating from the default would be the altar and the value would
+
+04:46.760 --> 04:48.040
+be a note.
+
+04:48.050 --> 04:53.620
+So for mapping is when you want to modify something for example if you want to add you know like to
+
+04:53.630 --> 04:55.660
+title for example you want to highlight.
+
+04:56.030 --> 04:57.230
+Hello my name is.
+
+04:57.230 --> 04:58.030
+And then title.
+
+04:58.070 --> 04:59.540
+So you can't actually do that.
+
+04:59.630 --> 05:07.830
+You can actually do and no my name is and this will be the title that you're going to get from Ogleby
+
+05:07.830 --> 05:08.390
+itself.
+
+05:08.390 --> 05:11.510
+So it's going to be Hello my name is and then the name of the title.
+
+05:11.510 --> 05:14.450
+For example test the great night chicken for example.
+
+05:15.520 --> 05:16.660
+So you can actually do this.
+
+05:16.720 --> 05:18.800
+I'm just going to leave it as de-value self.
+
+05:18.820 --> 05:24.300
+And finally it's rituals we want to add the average rating for every product on that as well.
+
+05:24.550 --> 05:31.210
+So this is the reason why we at this and the book is you know if you're running your server on production
+
+05:31.710 --> 05:36.580
+do you want to turn off the book because you don't want to like you know you want to see all the you
+
+05:36.580 --> 05:39.880
+want to only turn it on is in all the on production.
+
+05:39.880 --> 05:42.660
+I mean only on localhost when you are developing it.
+
+05:42.820 --> 05:43.430
+So that's it.
+
+05:44.520 --> 05:50.730
+So the final step that we need to take is we want to put mongoose model into a variable we want to put
+
+05:50.730 --> 05:52.630
+this into a variable.
+
+05:52.920 --> 06:08.740
+So we want to remove We want to cut this new model this and then we want to do it all.
+
+06:10.000 --> 06:10.320
+You
+
+06:14.110 --> 06:17.460
+set up
+
+06:22.470 --> 06:29.050
+that's your goal.
+
+06:30.950 --> 06:35.660
+And finally you want to add more.
+
+06:36.090 --> 06:41.670
+So the reason why we are doing this because you know we need to add additional mongooses of a feature
+
+06:42.270 --> 06:45.810
+to the model itself which is the product schema.
+
+06:45.810 --> 06:49.230
+The first one is to sing to our goal.
+
+06:49.470 --> 06:56.510
+So every time a seller created a product Aglaea was straight away seeing the newly created data in them
+
+06:56.510 --> 07:00.250
+over the database straight to the goal itself.
+
+07:00.330 --> 07:01.610
+You'll see it actually wrong.
+
+07:01.740 --> 07:03.010
+It is really amazing.
+
+07:05.030 --> 07:11.030
+So next thing is this is the part where you actually want to search for example like this is what you
+
+07:11.030 --> 07:14.230
+want to search on the search engine itself.
+
+07:14.540 --> 07:16.040
+What do you want to put in.
+
+07:16.060 --> 07:22.220
+So the key what we are putting is title as this search will actually be you can at more for example
+
+07:22.220 --> 07:28.870
+if you want to search by mange and so on.
+
+07:29.030 --> 07:34.040
+But it's better we just search by how to make our lives easier.
+
+07:34.040 --> 07:41.250
+So let's run this server and check the storage to see what it actually sings or not.
+
+07:41.270 --> 07:43.190
+So go ahead and do this.
+
+07:43.460 --> 07:43.620
+No
+
+07:46.890 --> 07:47.880
+server.
+
+07:50.040 --> 07:53.370
+Going to see ugly forms for example magic happens.
+
+07:53.500 --> 07:54.430
+Awesome.
+
+08:03.930 --> 08:09.220
+You haven't updated settings to zone all clear index synchronize next.
+
+08:09.220 --> 08:11.640
+So do two hour.
+
+08:11.940 --> 08:14.400
+And then those go ahead and refresh the speech
+
+08:17.980 --> 08:25.100
+day you have it all the title object id and then all the attributes like EMH description price owner
+
+08:25.540 --> 08:29.050
+and as well as the average rate team.
+
+08:29.180 --> 08:30.570
+Awesome.
+
+08:30.620 --> 08:34.280
+And one more thing that we populates it didn't name.
+
+08:34.610 --> 08:37.490
+And reviews will be Liron Once you have review.
+
+08:37.760 --> 08:44.600
+So we populate the path we choose the owner path and we select only name to be part of this awesome
+
+08:45.090 --> 08:46.090
+next video.
+
+08:46.100 --> 08:50.130
+We will learn how to create a search API based on Ogola.
+
+08:50.270 --> 08:52.250
+I'll see you guys in the next video.

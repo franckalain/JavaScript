@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00.480 --> 00:06.620
+Hello guys pagination is technically limiting the amount of documents that we're going to get from the
+
+00:06.670 --> 00:08.520
+movie database.
+
+00:08.550 --> 00:12.930
+So imagine if we have 3000 products in the database.
+
+00:13.260 --> 00:20.550
+If you use product that's fine it will not be efficient because we are getting all the products from
+
+00:20.670 --> 00:22.260
+the database.
+
+00:22.260 --> 00:26.010
+Instead we want to return a specific set amount of products.
+
+00:26.010 --> 00:30.480
+For example 10 products per API called.
+
+00:30.530 --> 00:38.870
+So if they are treat us and products it will have 300 pages and we want to return 10 products on each
+
+00:38.930 --> 00:40.440
+API call.
+
+00:40.460 --> 00:47.600
+So in the next video we will learn how to implement the pagination to mongoose operation.
+
+00:47.980 --> 00:50.080
+I'll see you guys in the next video.

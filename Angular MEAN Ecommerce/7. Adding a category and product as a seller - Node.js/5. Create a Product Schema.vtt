@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00.790 --> 00:02.340
+Hello X will come back.
+
+00:02.380 --> 00:07.990
+We need to create a product schema so that we can pre-Chase the product and even seller could sell or
+
+00:07.990 --> 00:13.640
+upload the product in this video we will create our schema which will be products schema.
+
+00:13.960 --> 00:15.500
+So we go in and create a new file.
+
+00:15.500 --> 00:22.420
+So it's a good visual studio and underneath models you file and you want to give a name product.
+
+00:22.600 --> 00:23.710
+Yes.
+
+00:23.780 --> 00:25.980
+So for groups
+
+01:06.360 --> 01:07.450
+copy this
+
+01:52.090 --> 01:53.610
+it is pretty straightforward.
+
+01:53.870 --> 02:00.740
+We create a product schema the attributes our category owner Image title description price and time
+
+02:00.770 --> 02:05.500
+creation category and only have different data type.
+
+02:05.580 --> 02:11.580
+This time it is object id every object that is created will have an idea for.
+
+02:11.580 --> 02:17.700
+So whenever you create a product you will always have this by default for example.
+
+02:17.700 --> 02:24.320
+So yes I mean this.
+
+02:24.490 --> 02:30.280
+So for example category whenever we create a new category so for example it's good to postman and this
+
+02:30.280 --> 02:31.290
+is the idea right.
+
+02:31.290 --> 02:32.620
+You can see this idea.
+
+02:33.010 --> 02:44.220
+You want to copy this and then we want to store it in the category attributes which this so that we
+
+02:44.220 --> 02:49.960
+know that this product belongs to this specific category which is cats.
+
+02:50.190 --> 02:52.010
+So you will see and actually run.
+
+02:52.140 --> 02:58.060
+Why do we need to store object id so that finally this really does for us.
+
+02:58.400 --> 03:04.710
+After all these things have done then we export the products Kema and that's that.
+
+03:04.850 --> 03:10.760
+In this video we created our schema which is Prolog schema in the next video we will create Amazon Web
+
+03:10.760 --> 03:11.990
+Services account.
+
+03:11.990 --> 03:14.660
+So I'll see you guys in the next video.

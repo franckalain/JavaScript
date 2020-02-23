@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.840 --> 00:05.840
+In this video we will create a review API that is a POST method.
+
+00:06.250 --> 00:10.360
+Let's go ahead and do that before we create the review post API.
+
+00:10.360 --> 00:13.560
+We need to add another field to our product schema.
+
+00:13.840 --> 00:14.820
+So it's good to progress.
+
+00:14.830 --> 00:27.640
+Yes and we need to add and not one which will be right here on News type Kiama.
+
+00:27.770 --> 00:29.970
+Hi Jack.
+
+00:30.050 --> 00:41.420
+I the reference will be to review column so each product will have an area of revues object id so that
+
+00:41.430 --> 00:43.530
+we could publish this really wrong.
+
+00:43.980 --> 00:47.030
+The next thing we want to do is we want to import two things.
+
+00:47.040 --> 00:57.360
+So it's good to mean yes and we want to import first with the Be of reviews.
+
+00:59.110 --> 01:01.480
+I not too tight not angel
+
+01:04.450 --> 01:07.840
+that will be the one.
+
+01:07.840 --> 01:09.540
+The other one is Conn's.
+
+01:09.610 --> 01:11.870
+Check to.
+
+01:25.490 --> 01:25.780
+Do
+
+01:28.500 --> 01:30.680
+not go down here.
+
+01:32.570 --> 01:34.240
+It is not a post
+
+02:27.740 --> 02:34.360
+this time we're using a single waterfall because the second function depends on the first function variable.
+
+02:34.910 --> 02:42.800
+So the first thing we do is we passing check check the to check whether the token is value or not that
+
+02:42.890 --> 02:45.980
+we can use request ID coded user.
+
+02:46.340 --> 02:49.230
+Then we run a single waterfall.
+
+02:49.580 --> 02:52.940
+The first function is simply finding a single product.
+
+02:53.420 --> 02:59.220
+So we pass in request body product ID which is the idea of the product.
+
+02:59.300 --> 03:06.920
+So the front end will well technically the front end will actually send this product ID then if product
+
+03:06.920 --> 03:14.930
+does exist then we want to run callback so that it will go or trigger the next function.
+
+03:14.930 --> 03:23.960
+So in the next function we created a new review object which is this one so that we could save it.
+
+03:23.980 --> 03:30.610
+The reason why we need a product from the fuse function is so that we could push this review I mean
+
+03:31.870 --> 03:34.240
+that's why we need to pass the product here.
+
+03:35.130 --> 03:42.920
+Finally we saved a product and the review then response the Jason data format.
+
+03:43.410 --> 03:45.090
+So let's go ahead and test it out.
+
+03:45.210 --> 03:49.370
+Well before that we need to get any product ID to test this out.
+
+03:49.600 --> 03:58.800
+You know we had two postmen and first thing we wanted to do is we wanted to look cool to use the API
+
+03:59.070 --> 04:03.230
+and those categories for all categories.
+
+04:03.260 --> 04:06.720
+She's just one you want to get
+
+04:10.330 --> 04:12.370
+your started.
+
+04:12.430 --> 04:13.620
+Super foods
+
+04:17.390 --> 04:17.700
+correct.
+
+04:17.740 --> 04:19.070
+Awesome.
+
+04:19.270 --> 04:24.430
+And we want to go and get this OK.
+
+04:24.790 --> 04:37.920
+So the first thing I want to is we want to grab this idea and we want to do go to the part of pistis
+
+04:38.490 --> 04:39.720
+we want to send.
+
+04:40.170 --> 04:40.610
+All right.
+
+04:40.620 --> 04:42.720
+This is the single product.
+
+04:42.720 --> 04:52.470
+So this next thing you want to do is we want to go home do the API again and then change this to close
+
+04:53.070 --> 04:55.710
+body will be.
+
+04:55.860 --> 05:04.940
+And then Pierian at G.M. here and G.M. are actually going to com
+
+05:09.110 --> 05:10.090
+does.
+
+05:10.390 --> 05:14.150
+That's that's it for us.
+
+05:15.160 --> 05:15.600
+All right.
+
+05:15.670 --> 05:21.480
+Let's get this tokened copy it and let's go.
+
+05:21.550 --> 05:24.300
+Open up our new lead route.
+
+05:24.370 --> 05:25.540
+Make sure we're safe.
+
+05:25.540 --> 05:26.140
+All right.
+
+05:26.280 --> 05:31.910
+So cool moves through the API.
+
+05:32.230 --> 05:36.190
+You will be Beauce body.
+
+05:36.640 --> 05:42.650
+And then first we get our header onto arises and
+
+05:46.790 --> 05:47.390
+sure.
+
+05:47.500 --> 05:48.460
+All right.
+
+05:48.610 --> 05:49.630
+Body will be.
+
+05:49.630 --> 05:50.980
+Check it out.
+
+05:51.020 --> 05:55.420
+So title and then description and greeting.
+
+05:55.690 --> 05:56.690
+That's it.
+
+05:56.690 --> 06:01.130
+So we go back to our
+
+06:13.480 --> 06:21.170
+brought up an old Scooba check rating.
+
+06:21.190 --> 06:24.230
+Let's go ahead and give it five stars.
+
+06:24.910 --> 06:28.210
+And the last thing we need is actually crowded.
+
+06:29.050 --> 06:31.030
+So mean.
+
+06:31.300 --> 06:33.590
+I mean we should be.
+
+06:33.970 --> 06:34.690
+Whoops.
+
+06:34.730 --> 06:44.390
+This one copied from the second a single product pitch copy the and is
+
+06:47.450 --> 06:52.250
+so let's click send successfully added the review.
+
+06:52.250 --> 06:58.660
+So currently the reviews if you go to the second tap come in which have zero empty review.
+
+06:59.030 --> 07:07.790
+So if we get they have it we have reviews and now you know technically it shows the object ID.
+
+07:08.180 --> 07:14.730
+So next time we want to do is we want to you know actually want to populate this field.
+
+07:14.780 --> 07:21.700
+So in this video we learn how to create a review API specifically to submit a review in the next review.
+
+07:21.780 --> 07:26.550
+We will install a new library to populate even deeper level.
+
+07:26.570 --> 07:29.030
+I'll see you guys in the next video.

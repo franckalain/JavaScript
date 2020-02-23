@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00.580 --> 00:02.160
+Hello guys will come back.
+
+00:02.170 --> 00:10.700
+So what can we do now is I'm going to remove this coat completely I'm going to start from scratch.
+
+00:11.050 --> 00:19.510
+So the next thing I want to do is you want to type in a conference page to a class where he does.
+
+00:19.900 --> 00:27.110
+So again if someone requesting the page then it will just be equivalent to tree.
+
+00:27.260 --> 00:34.530
+Page will always be given to for example the number from the or else L for example the numbers like
+
+00:34.530 --> 00:36.450
+this.
+
+00:36.450 --> 00:41.080
+This was Bache possibly Dan Bache will be called tree
+
+00:44.700 --> 00:48.660
+and so we want to type in the same waterfall
+
+00:51.160 --> 00:58.950
+and then we want to function to this function.
+
+00:58.960 --> 01:05.920
+And then instead of doing something like this we want to put this in this one instead.
+
+01:07.040 --> 01:08.190
+So back
+
+01:16.160 --> 01:26.510
+to us.
+
+01:45.500 --> 01:53.300
+So the first missing functions object is to get the total amount of products that belong to this specific
+
+01:53.300 --> 01:54.200
+category.
+
+01:54.590 --> 02:00.890
+In our case for example books get angry and then you know we are using technically mongoose operation
+
+02:00.890 --> 02:08.030
+called Count to count all the products in the product collection that has this specific category that
+
+02:09.020 --> 02:17.990
+we use requests the parents ID to capture the parameter values from the R L which is just one then we
+
+02:17.990 --> 02:24.200
+pass in a callback with a parameters of error and the result of the query which is counted.
+
+02:24.690 --> 02:31.100
+Then we set down to a newly created variable called Total products.
+
+02:31.110 --> 02:40.330
+Finally if you want to trigger the next function saying we do callback when we pass in error or no.
+
+02:40.680 --> 02:43.450
+And the variable that you want to pass in.
+
+02:44.370 --> 02:49.770
+So simple as that in the next video we will continue on with the second scene.
+
+02:49.920 --> 02:51.420
+I'll see you guys in the next few.

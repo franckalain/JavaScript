@@ -1,0 +1,550 @@
+WEBVTT
+
+00:00.840 --> 00:07.750
+Hello guys will come back whenever you think of the Keeshan features thing of the hotel scenario.
+
+00:08.160 --> 00:16.200
+In this video we will create our first official Sign-Up API which in the hotel analogy customer has
+
+00:16.200 --> 00:22.340
+to register on the counter to access the hotel room so have the views you do.
+
+00:22.350 --> 00:33.020
+If not then you want to create a new folder on your server for and give it a name Rupp's.
+
+00:33.500 --> 00:37.810
+This folder will hold all of the API Rops.
+
+00:37.820 --> 00:46.860
+So under this folder you want to create another file which is here and you want to get the name Count.
+
+00:47.090 --> 00:48.050
+Yes.
+
+00:49.250 --> 00:50.760
+Let's import router.
+
+00:50.840 --> 00:59.500
+So congrats for us.
+
+01:01.520 --> 01:09.040
+These acts the same as that we would do this be the same.
+
+01:09.330 --> 01:18.570
+I get that we did on the server last fall which is this one but the difference is you can group your
+
+01:18.570 --> 01:19.740
+API name.
+
+01:19.860 --> 01:29.760
+For example this specific file will have a prefix of counts and then the name will be signed.
+
+01:29.760 --> 01:36.240
+So the prefix name will be it comes you'll see it in action later on.
+
+01:36.270 --> 01:38.870
+So let's go ahead and remove this.
+
+01:39.030 --> 01:45.910
+So the next thing we need is an encryption token library to encrypt users information and transmit it
+
+01:45.940 --> 01:49.390
+between different parties in Jaison format.
+
+01:49.530 --> 01:55.800
+The library is Jason weap talking to Jason Webb token or GMAT.
+
+01:55.920 --> 01:56.940
+It's a compact.
+
+01:57.030 --> 02:04.560
+You are all safe means of reboot you're presenting information to be transferred between two parties.
+
+02:04.560 --> 02:12.230
+So you want to go to your terminal and you want to end all these dash dash
+
+02:15.650 --> 02:22.640
+so we don't always have time to go back here and you want to Conte's creativity.
+
+02:22.870 --> 02:26.280
+Going to require Giese on the web to
+
+02:29.250 --> 02:35.660
+then we need to require or import we use a schema that we just exported in the last few.
+
+02:35.970 --> 02:38.940
+So that we could save new users in the future.
+
+02:39.090 --> 02:45.330
+So we're able to hear the Condes user rules to require that
+
+02:50.960 --> 02:57.670
+so they're clean we are calling in routes folder so you know if we need to go back to the server folder
+
+02:57.930 --> 03:02.490
+do dot dot and then only type in models and then the father you want
+
+03:05.680 --> 03:08.570
+let's go ahead and create our own official API.
+
+03:08.710 --> 03:14.110
+So without her dot it would be close and it is a sign up
+
+03:16.890 --> 03:26.780
+then the press responds and next that you want to come up.
+
+03:28.360 --> 03:30.120
+So you want to test it first.
+
+03:30.310 --> 03:34.900
+So finally you want to do is you want to explore this rodder or
+
+03:41.120 --> 03:49.820
+we are using one of the thematics which is post-master post is technically sending the data to the server.
+
+03:50.220 --> 03:54.830
+That's it you remember body parser for example on server.
+
+03:54.870 --> 03:57.820
+Just remember that we did what the parser dogies saw.
+
+03:58.230 --> 04:03.030
+So technically body parser is a library to read data from front end.
+
+04:03.380 --> 04:09.370
+So to access those data we use requests dot body no matter what you need to use.
+
+04:09.380 --> 04:15.110
+Of course that body you see in action we need to install a chrome software called postman.
+
+04:15.440 --> 04:17.020
+Let's go ahead and do that.
+
+04:17.570 --> 04:23.130
+So it was good to Chrome and we wanted to go toward the room
+
+04:25.920 --> 04:31.060
+and you want to keep the circling postman.
+
+04:31.070 --> 04:33.140
+This is Zach software and at the chrome
+
+04:37.990 --> 04:38.480
+checking
+
+04:42.610 --> 04:45.120
+right now we have this postman.
+
+04:45.610 --> 04:48.130
+I mean post-merge offer.
+
+04:48.130 --> 04:52.960
+So you want to take me Street to get ice cream cone.
+
+04:52.960 --> 04:55.060
+Another top.
+
+04:55.220 --> 04:57.530
+That's it.
+
+04:57.650 --> 05:03.010
+But before we test this route we need three important is Schrott own server dodgy file.
+
+05:03.050 --> 05:07.200
+So head back to what we used to do and we need to import these files on a server.
+
+05:07.230 --> 05:08.280
+Yes.
+
+05:08.400 --> 05:14.860
+So let's disrupt first and type in cons.
+
+05:14.980 --> 05:32.780
+These are brothers who are robots and can use arms and users.
+
+05:33.260 --> 05:38.990
+So what is happening is we are giving this rat a prefix name which is API.
+
+05:39.130 --> 05:40.190
+It comes.
+
+05:40.270 --> 05:45.730
+So technically we group all the API under a count's name.
+
+05:45.980 --> 05:52.630
+So to have a prefix name just put API icons and then the file which is user Iraq's.
+
+05:52.790 --> 05:58.090
+So dead set since sign on is in a condo J as file.
+
+05:58.130 --> 06:03.800
+Then let's go back to postman and it would be cool to be
+
+06:09.020 --> 06:10.320
+signed up.
+
+06:10.460 --> 06:12.550
+So remember it is a post method.
+
+06:12.590 --> 06:19.550
+So you want to type in when to click this and go to posts and go to body and then click next available
+
+06:19.550 --> 06:23.330
+form your code and you pass an email.
+
+06:23.330 --> 06:38.000
+For example has pulled up an email and through through the things you want the name to be.
+
+06:38.120 --> 06:43.210
+Mr. PC so let's go back to our visual.
+
+06:43.370 --> 06:47.270
+I mean our polls show and less power up the server.
+
+06:47.270 --> 06:49.500
+So Ron Northmen server
+
+06:53.770 --> 06:55.040
+magic happens.
+
+06:55.330 --> 06:55.870
+OK.
+
+06:56.120 --> 06:57.150
+Connected to the terrorist.
+
+06:57.150 --> 07:02.380
+So was quick scan and it's loading.
+
+07:02.380 --> 07:07.990
+But if you go to the terminal it shows all the data that we send to the database.
+
+07:07.990 --> 07:13.430
+So later on we can actually capture e-mail password and name.
+
+07:13.780 --> 07:15.280
+Awesome.
+
+07:15.290 --> 07:19.510
+Now we want to create the actual logic of the Sign-Up API.
+
+07:19.900 --> 07:23.270
+The logic of the API is simple.
+
+07:23.350 --> 07:24.610
+You want to check the database.
+
+07:24.610 --> 07:29.740
+If the use exists if it does exist then show them a message.
+
+07:29.830 --> 07:36.160
+This use already exists for example if the user does not exist in a database that's safe we use it to
+
+07:36.160 --> 07:37.250
+the database.
+
+07:37.300 --> 07:42.800
+So go ahead or write the code so it will go back to our studio and go to a counselor.
+
+07:42.800 --> 07:43.710
+Yes.
+
+07:43.900 --> 07:48.660
+And you want to remove this.
+
+07:48.920 --> 07:55.390
+So you want to let you.
+
+07:56.590 --> 07:59.380
+Of course it does.
+
+07:59.930 --> 08:07.280
+Because you get it because you get to a rule requires that body name would cause the body to pass her
+
+08:07.620 --> 08:08.480
+body to email.
+
+08:08.470 --> 08:10.160
+That is how you capture the data.
+
+08:10.470 --> 08:22.600
+So these are two big questions.
+
+08:22.880 --> 08:23.660
+Sure.
+
+08:23.760 --> 08:29.910
+Because to guess what it's not going to be requests because we're going to use our custom method we
+
+08:29.910 --> 08:31.450
+just create it which is Gravitar.
+
+08:31.740 --> 08:39.340
+So go back to our current topic user Gravatar Gravatar.
+
+08:39.380 --> 08:41.060
+Right.
+
+08:42.150 --> 08:49.000
+And then the next thing is user databases our course was the dot does.
+
+08:49.260 --> 08:50.930
+So that will be completely
+
+09:13.390 --> 09:19.800
+So if music does make sense then you want to respond to
+
+09:22.910 --> 09:23.730
+the
+
+09:46.720 --> 09:47.830
+fine one.
+
+09:48.000 --> 09:49.740
+It's a function by mongoose.
+
+09:49.740 --> 09:57.150
+It will search for one particular document that has the specific attribute which you know kids email
+
+09:57.180 --> 10:01.760
+attribute check if use it does exist.
+
+10:01.810 --> 10:06.260
+If it does exist it simply show the email already exists.
+
+10:06.270 --> 10:12.890
+We're going to show a message to users that this e-mail has been taken for example else we want to save
+
+10:12.910 --> 10:14.160
+the user.
+
+10:14.230 --> 10:20.500
+So the next step we want to do is we want to encrypt the use object in a token so that the front end
+
+10:20.500 --> 10:27.970
+could use to encrypt the token information like using email name or picture and display it.
+
+10:28.420 --> 10:34.970
+We need to import our secret key from the conflict file and use that as part of our encryption.
+
+10:35.320 --> 10:40.990
+So it was go ahead and do the regluing cons conflict reporter
+
+10:48.600 --> 10:50.140
+Sarabi right here.
+
+10:50.550 --> 10:55.150
+You want to create that which will be far too Jeta.
+
+10:55.260 --> 10:57.740
+We should be talking.
+
+10:58.050 --> 11:00.010
+Don't sign
+
+11:02.800 --> 11:04.670
+anyone to pass any user object.
+
+11:06.160 --> 11:10.390
+And then you want to do here you want to do.
+
+11:10.420 --> 11:12.980
+And that's great.
+
+11:13.170 --> 11:14.510
+You want to fire
+
+11:17.330 --> 11:17.720
+me
+
+11:21.260 --> 11:24.380
+to this.
+
+11:25.030 --> 11:26.840
+Max is spot on.
+
+11:26.850 --> 11:29.090
+These are folks
+
+11:31.890 --> 11:32.160
+who
+
+11:36.810 --> 11:37.050
+say
+
+11:40.790 --> 11:44.760
+you're passing them.
+
+11:44.790 --> 11:49.740
+So it's cleaned up a little bit.
+
+11:55.650 --> 12:01.090
+So statically you what is happening is we encrypt the token with the users object.
+
+12:01.140 --> 12:08.010
+The secret key and the expiry date which will expire in seven days and then when you Spawn's the adjacent
+
+12:08.010 --> 12:12.450
+data to the front end with that success message.
+
+12:12.690 --> 12:15.040
+And toker as part of the body.
+
+12:15.270 --> 12:16.860
+So go out and test tape.
+
+12:16.890 --> 12:24.160
+Let's go to postman and look another value which will be December true.
+
+12:25.130 --> 12:27.770
+And then you want to check that the show OK.
+
+12:27.780 --> 12:31.800
+Everything is good so is good and send and cannot get any response.
+
+12:31.800 --> 12:32.870
+I mean there's an error.
+
+12:33.210 --> 12:37.150
+So now cannot read properties safe or no.
+
+12:37.200 --> 12:39.170
+So let's go back to you.
+
+12:40.080 --> 12:42.640
+Let's check what's wrong.
+
+12:42.780 --> 12:48.490
+All right the real reason why because we use the same name which is user and user.
+
+12:48.550 --> 12:52.500
+So these changes to the existing user
+
+12:58.890 --> 13:04.960
+so what we were trying to do is we're trying to see if there's a user object instead of this one.
+
+13:04.980 --> 13:07.400
+So you get confused as why it returns now.
+
+13:07.800 --> 13:11.570
+Because if you check the database the database is empty right now.
+
+13:11.880 --> 13:13.110
+So it returns now.
+
+13:13.110 --> 13:15.220
+So we're trying to save knowledged it.
+
+13:15.240 --> 13:17.620
+So now you see to safe.
+
+13:17.970 --> 13:23.220
+It is good or if they can restart the server.
+
+13:24.100 --> 13:25.370
+Yes.
+
+13:25.430 --> 13:25.870
+Clear
+
+13:28.850 --> 13:35.820
+and let's go ahead and send a small time error.
+
+13:35.970 --> 13:38.190
+Can we see that.
+
+13:38.700 --> 13:41.110
+Of course because we forgot to save the file.
+
+13:41.450 --> 13:43.800
+So again magic happens.
+
+13:43.910 --> 13:49.620
+Awesome 330 here and then boom.
+
+13:49.730 --> 13:50.310
+Here we are.
+
+13:50.320 --> 13:56.100
+You get a result So success is true and we have the message and you took it.
+
+13:56.120 --> 13:58.950
+And we received the token itself.
+
+13:58.970 --> 14:07.730
+So the final step is to go to Crome and to go to and lab and check whether you know what have we already
+
+14:07.730 --> 14:15.490
+saved the data to the database and so go log in and I cannot wait to see it.
+
+14:15.490 --> 14:15.940
+Of course
+
+14:21.890 --> 14:23.170
+internet is quite slow.
+
+14:23.230 --> 14:27.940
+No someone is watching tv series or something.
+
+14:29.420 --> 14:35.010
+So for us would be cool.
+
+14:48.250 --> 14:51.550
+Let's go through a zone on web application.
+
+14:51.550 --> 14:55.700
+Now let's go and check user's documents one mese.
+
+14:55.750 --> 14:56.810
+So there you have it.
+
+14:56.950 --> 15:01.190
+Mr. ABC ABC NBC password encrypted.
+
+15:01.420 --> 15:02.160
+Awesome.
+
+15:02.380 --> 15:04.000
+And then we have the picture as well.
+
+15:04.090 --> 15:06.410
+So everything is correct.
+
+15:06.400 --> 15:10.860
+So go back to our postman and let's try to submit it once again.
+
+15:10.860 --> 15:13.950
+We already see this in the same e-mail.
+
+15:14.170 --> 15:19.350
+I mean since you already save ABC and ABC to come see what it will.
+
+15:19.390 --> 15:21.350
+No return at all.
+
+15:21.370 --> 15:23.770
+Or will it see it again.
+
+15:23.800 --> 15:31.060
+So send boom accom come with that e-mail is already exist meaning it cannot be duplicated.
+
+15:31.370 --> 15:32.330
+So go back here.
+
+15:32.430 --> 15:38.290
+We just simply check existing use already exist then use you want to send this message.
+
+15:38.310 --> 15:39.040
+It come with it.
+
+15:39.060 --> 15:42.510
+E-mail is already exists.
+
+15:42.510 --> 15:49.500
+Amazing as in this video we learn how to create a Sign-Up API in the next video.
+
+15:49.740 --> 15:52.360
+We will learn how to create a logging API.
+
+15:52.510 --> 15:54.720
+I'll see you guys in the next video.

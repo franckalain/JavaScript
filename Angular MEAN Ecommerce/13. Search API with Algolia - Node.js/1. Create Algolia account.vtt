@@ -1,0 +1,91 @@
+WEBVTT
+
+00:00.480 --> 00:06.500
+Hello guys in this section we will learn how to build a search feature.
+
+00:06.500 --> 00:08.250
+Imagine a world without Google.
+
+00:08.390 --> 00:12.050
+It would be almost impossible for us to search for something.
+
+00:12.050 --> 00:14.300
+Same goes for a web application.
+
+00:14.300 --> 00:22.030
+We need to add a search functionality so the user could search for a product in this video we will create
+
+00:22.030 --> 00:24.290
+an elderly account.
+
+00:24.460 --> 00:27.760
+It's Ogola is a cloud search infrastructure.
+
+00:27.760 --> 00:31.430
+You don't need to create your own search engine for a web application.
+
+00:31.630 --> 00:34.940
+You can use Google to solve this problem.
+
+00:35.230 --> 00:37.000
+Let's go to the Web site.
+
+00:37.030 --> 00:47.010
+So you type in the top and then I'm going to click again because I create the account you simply just
+
+00:47.010 --> 00:50.550
+click Google or get up if you have a Google account or get an account for me.
+
+00:50.560 --> 00:55.410
+I can't I'm just going to click this.
+
+00:55.840 --> 00:56.340
+All right.
+
+00:56.430 --> 01:04.190
+So here's the interface we have dashboard in Dyce's and now thinks the API keys and you can check team
+
+01:04.200 --> 01:04.760
+as well.
+
+01:12.820 --> 01:15.530
+Essential for business and underprice.
+
+01:15.830 --> 01:17.540
+We're not going to great now.
+
+01:17.540 --> 01:19.490
+You just can use a sandbox.
+
+01:19.510 --> 01:25.840
+So the first thing you want to do is you want to do this and you want to create a new index and then
+
+01:25.840 --> 01:27.150
+you want to give it a name.
+
+01:27.190 --> 01:38.640
+Amazon on Version 1 create create index and Kirlian don't have any data yet because when you do that
+
+01:38.640 --> 01:44.880
+in a couple of next week in and that we do actually we're going to add or to be more specific seeing
+
+01:45.390 --> 01:51.020
+the data in the database to our goal the cloud storage.
+
+01:51.030 --> 01:57.660
+So now what you need to do is you want to go to API Kean's and on what you need to do is you want to
+
+01:57.660 --> 02:03.440
+copy this and you want to copy this is well on the spot.
+
+02:03.840 --> 02:05.870
+So that's about it in the next video.
+
+02:05.890 --> 02:12.130
+We will install a library call or a dependency call mongoose or go here so that we could start using
+
+02:12.130 --> 02:14.050
+the search engine infrastructure.
+
+02:14.350 --> 02:16.020
+I'll see you guys in the next Vitti.

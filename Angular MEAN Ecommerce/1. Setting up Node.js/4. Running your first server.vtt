@@ -1,0 +1,184 @@
+WEBVTT
+
+00:01.200 --> 00:06.100
+In order for people to use your app you need to run to surface in this video.
+
+00:06.120 --> 00:09.980
+We will learn how to run our first server and our first.
+
+00:10.070 --> 00:13.970
+Hey should you keep your route or in another name API.
+
+00:14.250 --> 00:16.730
+So it's go under right below here.
+
+00:16.780 --> 00:20.020
+I've listened to one or two
+
+00:37.740 --> 00:43.440
+let's run out a no job application so I'm going to open up my Rasho.
+
+00:43.780 --> 00:50.750
+So here I'm going since you don't need to at one time.
+
+00:50.770 --> 00:51.910
+No.
+
+00:52.630 --> 01:00.490
+So if you use only know whenever you make any changes to your code it will never restart certainly self
+
+01:01.490 --> 01:05.600
+but let's consider this if you do it.
+
+01:06.530 --> 01:08.530
+OK now we have this problem.
+
+01:08.540 --> 01:15.830
+The term not moon is not recognized as the name of the command that functions to file or operable program.
+
+01:15.830 --> 01:19.210
+So we have this we called it paff problem.
+
+01:19.340 --> 01:22.250
+So you need to verify what are your paff is correct or not.
+
+01:22.550 --> 01:30.850
+So it good to hear and when to tap into this PC right click properties and then you want to advance
+
+01:32.650 --> 01:41.510
+the password and then you when it click environment variables and then pass at it and then you want
+
+01:41.510 --> 01:46.450
+to view it in this way you get to typing like this one.
+
+01:46.640 --> 01:56.210
+The total then and I add to your past so that only you can use.
+
+01:56.720 --> 01:57.900
+OK.
+
+01:58.020 --> 01:58.850
+All right.
+
+01:59.290 --> 02:00.300
+So you to go there.
+
+02:00.500 --> 02:01.480
+Exactly.
+
+02:01.600 --> 02:04.600
+And then you want to go back to your or I'll show
+
+02:07.550 --> 02:09.010
+you sir.
+
+02:09.800 --> 02:11.050
+The other thing.
+
+02:11.090 --> 02:11.940
+And then what happened.
+
+02:11.950 --> 02:13.990
+No sir.
+
+02:14.880 --> 02:16.670
+And now it runs perfectly.
+
+02:16.720 --> 02:20.070
+So it will restart you know whenever you make any changes.
+
+02:20.090 --> 02:23.020
+So for example if you go to your code and you at
+
+02:27.250 --> 02:30.850
+you see it and it automatically restarts.
+
+02:30.850 --> 02:31.580
+Awesome.
+
+02:31.900 --> 02:34.690
+So let's go back to all we're doing this
+
+02:37.720 --> 02:40.150
+congratulation and build your first server.
+
+02:40.360 --> 02:41.200
+Now it runs.
+
+02:41.200 --> 02:44.150
+Magic happens from port to the tourney.
+
+02:44.170 --> 02:46.060
+Really proud of you guys.
+
+02:46.060 --> 02:51.220
+I have a feeling that one of you guys are going to change the world soon huh.
+
+02:51.610 --> 02:54.550
+I know you guys are going to change the world soon enough.
+
+02:54.550 --> 02:55.810
+One of the guys.
+
+02:55.900 --> 02:57.480
+So now let's move on.
+
+02:57.490 --> 03:01.310
+Next step is to create our first issue to be rock.
+
+03:01.390 --> 03:02.450
+So go and do that.
+
+03:02.740 --> 03:04.070
+So in the middle of here.
+
+03:04.200 --> 03:05.300
+STOP of get
+
+03:09.150 --> 03:10.750
+us on this
+
+03:22.060 --> 03:25.280
+save this and then we want to test this route.
+
+03:25.400 --> 03:25.910
+OK.
+
+03:26.720 --> 03:35.130
+So let's go ahead and go to our Google Group and type in to the polls to the poll.
+
+03:35.620 --> 03:38.260
+It was show user Arash Yahaya.
+
+03:38.330 --> 03:45.740
+So technically we are using one of the hishe method which is get get is just getting data from this
+
+03:45.750 --> 03:47.530
+rock that said.
+
+03:47.660 --> 03:55.330
+So technically we passing a rap name which in our case will be for example of done example.
+
+03:56.090 --> 04:04.490
+It is the same as this because you can see local's to the to the slash it will still be the same.
+
+04:04.960 --> 04:11.460
+And then we pass in let's move this for us and then we pass in a callback function with the parameters
+
+04:11.470 --> 04:20.200
+a request response and next and then we turn a Jason data format and we give it a user object which
+
+04:20.200 --> 04:23.130
+is which de-value is our Achaia.
+
+04:23.170 --> 04:29.740
+So in a nutshell whenever someone visits this history Berat it will simply return a Jason data.
+
+04:31.280 --> 04:38.330
+In this video we learn on how to run our first server and as well as our first Hastey be around in the
+
+04:38.330 --> 04:41.740
+next video we will set up our cloud Mowgli account.
+
+04:41.810 --> 04:43.020
+I'll see you guys next.
