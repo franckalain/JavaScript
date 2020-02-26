@@ -1,2 +1,2 @@
-{{title}}
-<app-test></app-test>
+{{message}}
+<app-test (childEvent)="message=$event" [parentData]="myName"></app-test>
